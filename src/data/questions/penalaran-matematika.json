@@ -1,0 +1,421 @@
+[
+ {
+  "id": 1,
+  "category": "Penalaran Matematika",
+  "topic": "Masalah kontekstual",
+  "difficulty": "medium",
+  "question": "Tarif ojek daring Rp5.000 + Rp2.500 per km. Untuk tarif Rp20.000, jaraknya adalah... km.",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer": "C",
+  "explanation": "5.000 + 2.500k = 20.000, k = 6.",
+  "subtopic": "Pemodelan persamaan linear",
+  "tips": "Tulis model dulu (tetap + variabel × satuan), baru substitusi angka.",
+  "time": 90
+ },
+ {
+  "id": 2,
+  "category": "Penalaran Matematika",
+  "topic": "Statistika",
+  "difficulty": "medium",
+  "question": "Nilai 5 ujian: 70, 80, 90, 60, 100. Rata-ratanya adalah...",
+  "options": [
+   "75",
+   "78",
+   "80",
+   "82",
+   "85"
+  ],
+  "answer": "C",
+  "explanation": "Jumlah 400, dibagi 5 = 80.",
+  "subtopic": "Rata-rata",
+  "tips": "Jumlahkan dulu semua data, baru bagi dengan banyak data.",
+  "time": 60
+ },
+ {
+  "id": 3,
+  "category": "Penalaran Matematika",
+  "topic": "Masalah kontekstual dan pemodelan",
+  "subtopic": "Pertidaksamaan dalam tabungan",
+  "difficulty": "medium",
+  "question": "Dina memiliki saldo awal Rp40.000 dan menabung Rp15.000 setiap minggu. Paling sedikit berapa minggu agar saldonya mencapai minimal Rp250.000?",
+  "options": [
+   "12",
+   "13",
+   "14",
+   "15",
+   "16"
+  ],
+  "answer": "C",
+  "explanation": "Model: 40.000 + 15.000k ≥ 250.000 → 15.000k ≥ 210.000 → k ≥ 14. Pada k = 13 saldo 235.000 (belum cukup), pada k = 14 saldo tepat 250.000.",
+  "tips": "Kata \"minimal\" → tanda ≥. Uji bilangan di sekitar batas untuk memastikan.",
+  "time": 90,
+  "wrong": {
+   "B": "Pada 13 minggu saldo baru Rp235.000."
+  }
+ },
+ {
+  "id": 4,
+  "category": "Penalaran Matematika",
+  "topic": "Aritmetika dan aljabar",
+  "subtopic": "Sistem persamaan dari soal cerita",
+  "difficulty": "medium",
+  "question": "Harga 3 pensil dan 2 buku adalah Rp19.000, sedangkan harga 1 pensil dan 1 buku adalah Rp8.000. Harga satu buku adalah...",
+  "options": [
+   "Rp2.000",
+   "Rp3.000",
+   "Rp4.000",
+   "Rp5.000",
+   "Rp6.000"
+  ],
+  "answer": "D",
+  "explanation": "Misal pensil = p, buku = b (ribuan). 3p + 2b = 19 dan p + b = 8. Kalikan persamaan kedua dengan 3: 3p + 3b = 24. Kurangkan: b = 24 − 19 = 5. Jadi buku Rp5.000 (pensil Rp3.000).",
+  "tips": "Samakan koefisien salah satu variabel agar bisa dieliminasi.",
+  "time": 90,
+  "wrong": {
+   "B": "Rp3.000 adalah harga pensil, bukan buku."
+  }
+ },
+ {
+  "id": 5,
+  "category": "Penalaran Matematika",
+  "topic": "Interpretasi grafik dan tabel",
+  "subtopic": "Persentase kenaikan antarperiode",
+  "difficulty": "medium",
+  "question": "Penjualan (unit) sebuah toko: Januari 40, Februari 50, Maret 45, April 60, Mei 75. Kenaikan persentase terbesar dibandingkan bulan sebelumnya terjadi pada bulan...",
+  "options": [
+   "Februari",
+   "Maret",
+   "Mei",
+   "April",
+   "Januari"
+  ],
+  "answer": "D",
+  "explanation": "Kenaikan persentase = kenaikan ÷ nilai bulan sebelumnya. Feb: 10/40 = 25%. Mar: turun. Apr: 15/45 ≈ 33,3%. Mei: 15/60 = 25%. Terbesar pada April.",
+  "tips": "Kenaikan yang sama (15 unit) bisa berarti persentase berbeda; bandingkan dengan dasar bulan sebelumnya.",
+  "time": 120,
+  "wrong": {
+   "C": "Mei naik 15 unit juga, tetapi dasarnya lebih besar (60) sehingga hanya 25%."
+  }
+ },
+ {
+  "id": 6,
+  "category": "Penalaran Matematika",
+  "topic": "Geometri dan pengukuran",
+  "subtopic": "Volume dan konversi satuan",
+  "difficulty": "easy",
+  "question": "Sebuah tangki berbentuk balok berukuran 2 m × 1,5 m × 1 m terisi penuh air. Jika 1.200 liter air telah dipakai, sisa air dalam tangki adalah... liter.",
+  "options": [
+   "1.500",
+   "1.800",
+   "2.000",
+   "2.400",
+   "3.000"
+  ],
+  "answer": "B",
+  "explanation": "Volume = 2 × 1,5 × 1 = 3 m³. Karena 1 m³ = 1.000 liter, volume = 3.000 liter. Sisa = 3.000 − 1.200 = 1.800 liter.",
+  "tips": "Ubah satuan lebih dulu: 1 m³ = 1.000 liter.",
+  "time": 60,
+  "wrong": {
+   "E": "3.000 liter adalah volume penuh sebelum dipakai."
+  }
+ },
+ {
+  "id": 7,
+  "category": "Penalaran Matematika",
+  "topic": "Matematika kehidupan sehari-hari",
+  "subtopic": "Bunga tunggal",
+  "difficulty": "medium",
+  "question": "Rina menyimpan uang Rp2.000.000 dengan bunga tunggal 6% per tahun. Setelah 9 bulan, total tabungannya adalah...",
+  "options": [
+   "Rp2.060.000",
+   "Rp2.090.000",
+   "Rp2.120.000",
+   "Rp2.180.000",
+   "Rp2.540.000"
+  ],
+  "answer": "B",
+  "explanation": "Bunga = modal × persen × waktu (tahun) = 2.000.000 × 6% × 9/12 = 90.000. Total = 2.090.000.",
+  "tips": "Ubah bulan menjadi bagian tahun: 9 bulan = 9/12 tahun.",
+  "time": 75,
+  "wrong": {
+   "C": "Rp2.120.000 adalah hasil setelah 1 tahun penuh."
+  }
+ },
+ {
+  "id": 8,
+  "category": "Penalaran Matematika",
+  "topic": "Soal cerita bertingkat",
+  "subtopic": "Perbandingan berbalik nilai",
+  "difficulty": "hard",
+  "question": "Sebuah proyek direncanakan selesai dalam 20 hari oleh 12 pekerja. Setelah 5 hari bekerja, 3 pekerja berhenti dan tidak diganti. Sisa pekerjaan akan selesai dalam... hari.",
+  "options": [
+   "15",
+   "18",
+   "20",
+   "22",
+   "25"
+  ],
+  "answer": "C",
+  "explanation": "Total pekerjaan = 12 × 20 = 240 pekerja-hari. Dalam 5 hari terpakai 12 × 5 = 60. Sisa 180 pekerja-hari dikerjakan 9 pekerja: 180 ÷ 9 = 20 hari.",
+  "tips": "Ukur pekerjaan dalam \"pekerja-hari\", lalu kurangi yang sudah dikerjakan.",
+  "time": 150,
+  "wrong": {
+   "E": "25 adalah total lama proyek (5 + 20), bukan sisa hari."
+  }
+ },
+ {
+  "id": 9,
+  "category": "Penalaran Matematika",
+  "topic": "Statistika dan peluang",
+  "subtopic": "Peluang tanpa pengembalian",
+  "difficulty": "medium",
+  "question": "Sebuah kotak berisi 5 kartu merah dan 3 kartu biru. Dua kartu diambil sekaligus secara acak. Peluang keduanya merah adalah...",
+  "options": [
+   "5/14",
+   "5/8",
+   "25/64",
+   "3/14",
+   "3/4"
+  ],
+  "answer": "A",
+  "explanation": "Pengambilan sekaligus → kombinasi. Kejadian: C(5,2) = 10. Ruang sampel: C(8,2) = 28. Peluang = 10/28 = 5/14.",
+  "tips": "Sekaligus = tanpa pengembalian. Bukan (5/8)×(5/8) karena kartu pertama tidak dikembalikan.",
+  "time": 100,
+  "wrong": {
+   "C": "25/64 dipakai jika kartu dikembalikan setelah pengambilan pertama."
+  }
+ },
+ {
+  "id": 10,
+  "category": "Penalaran Matematika",
+  "topic": "Fungsi dan persamaan",
+  "subtopic": "Nilai maksimum fungsi kuadrat",
+  "difficulty": "hard",
+  "question": "Tinggi bola (meter) setelah t detik dilempar ke atas dinyatakan h(t) = −5t² + 20t. Tinggi maksimum bola adalah... meter.",
+  "options": [
+   "10",
+   "15",
+   "20",
+   "25",
+   "40"
+  ],
+  "answer": "C",
+  "explanation": "Sumbu simetri t = −b/(2a) = −20/(2 × −5) = 2 detik. h(2) = −5(4) + 20(2) = −20 + 40 = 20 meter.",
+  "tips": "Nilai maksimum fungsi kuadrat ada pada t = −b/2a.",
+  "time": 100,
+  "wrong": {
+   "E": "40 adalah hasil 20t tanpa mengurangi suku −5t²."
+  }
+ },
+ {
+  "id": 11,
+  "category": "Penalaran Matematika",
+  "topic": "Statistika dan peluang",
+  "subtopic": "Rata-rata gabungan",
+  "difficulty": "medium",
+  "question": "Rata-rata nilai 20 siswa kelas A adalah 70 dan rata-rata nilai 30 siswa kelas B adalah 80. Rata-rata nilai seluruh siswa adalah...",
+  "options": [
+   "75",
+   "76",
+   "77",
+   "78",
+   "80"
+  ],
+  "answer": "B",
+  "explanation": "Jumlah A = 20 × 70 = 1.400. Jumlah B = 30 × 80 = 2.400. Rata-rata gabungan = 3.800 ÷ 50 = 76. Bukan 75 karena banyak siswa berbeda (bobot berbeda).",
+  "tips": "Rata-rata gabungan = total nilai ÷ total siswa (rata-rata berbobot).",
+  "time": 75,
+  "wrong": {
+   "A": "75 adalah rata-rata dua rata-rata; mengabaikan bahwa kelas B lebih banyak."
+  }
+ },
+ {
+  "id": 12,
+  "category": "Penalaran Matematika",
+  "topic": "Soal cerita bertingkat",
+  "subtopic": "Kecepatan dan menyusul",
+  "difficulty": "hard",
+  "question": "Sebuah motor berangkat dengan kecepatan 45 km/jam. Setengah jam kemudian sebuah mobil menyusul dari tempat yang sama dengan kecepatan 75 km/jam. Mobil menyusul motor setelah... menit sejak mobil berangkat.",
+  "options": [
+   "30",
+   "40",
+   "45",
+   "50",
+   "60"
+  ],
+  "answer": "C",
+  "explanation": "Saat mobil berangkat, motor sudah menempuh 45 × 0,5 = 22,5 km. Selisih kecepatan = 75 − 45 = 30 km/jam. Waktu menyusul = 22,5 ÷ 30 = 0,75 jam = 45 menit.",
+  "tips": "Menyusul: jarak awal ÷ selisih kecepatan. Perhatikan acuan waktu pada pertanyaan.",
+  "time": 150,
+  "wrong": {
+   "E": "60 menit adalah waktu sejak motor berangkat sebelum dikoreksi."
+  }
+ },
+ {
+  "id": 13,
+  "category": "Penalaran Matematika",
+  "topic": "Geometri dan pengukuran",
+  "subtopic": "Skala peta",
+  "difficulty": "easy",
+  "question": "Pada peta berskala 1 : 250.000, jarak dua kota adalah 6 cm. Jarak sebenarnya adalah... km.",
+  "options": [
+   "1,5",
+   "12",
+   "15",
+   "25",
+   "150"
+  ],
+  "answer": "C",
+  "explanation": "Jarak sebenarnya = 6 × 250.000 = 1.500.000 cm = 15.000 m = 15 km.",
+  "tips": "100.000 cm = 1 km. Hilangkan 5 angka nol dari cm untuk mendapat km.",
+  "time": 60
+ },
+ {
+  "id": 14,
+  "category": "Penalaran Matematika",
+  "topic": "Matematika kehidupan sehari-hari",
+  "subtopic": "Tarif bertingkat",
+  "difficulty": "hard",
+  "question": "Tarif listrik: 100 kWh pertama Rp1.000/kWh, selebihnya Rp1.500/kWh. Jika tagihan Rp280.000, pemakaian listrik adalah... kWh.",
+  "options": [
+   "180",
+   "200",
+   "220",
+   "240",
+   "280"
+  ],
+  "answer": "C",
+  "explanation": "100 kWh pertama = Rp100.000. Sisa tagihan = 280.000 − 100.000 = 180.000, dibagi 1.500 = 120 kWh. Total pemakaian = 100 + 120 = 220 kWh.",
+  "tips": "Pisahkan tarif per tingkat, hitung bagian pertama dulu.",
+  "time": 120,
+  "wrong": {
+   "E": "280 hanya kebetulan sama dengan angka tagihan."
+  }
+ },
+ {
+  "id": 15,
+  "category": "Penalaran Matematika",
+  "topic": "Matematika kehidupan sehari-hari",
+  "subtopic": "Diskon bertingkat",
+  "difficulty": "medium",
+  "question": "Sebuah barang seharga Rp200.000 mendapat diskon 20%, lalu diskon tambahan 10% dari harga setelah diskon pertama. Harga akhir barang tersebut adalah...",
+  "options": [
+   "Rp140.000",
+   "Rp144.000",
+   "Rp150.000",
+   "Rp160.000",
+   "Rp170.000"
+  ],
+  "answer": "B",
+  "explanation": "Setelah diskon pertama: 80% × 200.000 = 160.000. Diskon kedua: 90% × 160.000 = 144.000. Total diskon 28%, bukan 30%.",
+  "tips": "Diskon bertingkat dihitung berurutan; jangan dijumlahkan.",
+  "time": 75,
+  "wrong": {
+   "A": "Menjumlahkan diskon 20% + 10% = 30%."
+  }
+ },
+ {
+  "id": 16,
+  "category": "Penalaran Matematika",
+  "topic": "Aritmetika dan aljabar",
+  "subtopic": "Perbandingan senilai",
+  "difficulty": "easy",
+  "question": "Resep kue untuk 4 porsi memerlukan 300 gram tepung. Jika tersedia 700 gram tepung dan ingin membuat 10 porsi, tepung yang kurang adalah... gram.",
+  "options": [
+   "25",
+   "50",
+   "75",
+   "100",
+   "150"
+  ],
+  "answer": "B",
+  "explanation": "Per porsi 300 ÷ 4 = 75 g. Untuk 10 porsi = 750 g. Kurang 750 − 700 = 50 g.",
+  "tips": "Cari nilai satu satuan dulu, lalu kalikan.",
+  "time": 60
+ },
+ {
+  "id": 17,
+  "category": "Penalaran Matematika",
+  "topic": "Geometri dan pengukuran",
+  "subtopic": "Luas daerah arsiran",
+  "difficulty": "medium",
+  "question": "Sebuah taman persegi panjang berukuran 20 m × 12 m. Di dalamnya, sepanjang tepi dibuat jalan setapak selebar 1 m. Luas jalan setapak tersebut adalah... m².",
+  "options": [
+   "48",
+   "56",
+   "60",
+   "64",
+   "72"
+  ],
+  "answer": "C",
+  "explanation": "Luas taman 240. Bagian dalam (tanpa jalan) berukuran (20−2) × (12−2) = 18 × 10 = 180. Luas jalan = 240 − 180 = 60.",
+  "tips": "Lebar jalan di kedua sisi mengurangi panjang dan lebar masing-masing 2 × lebar.",
+  "time": 90
+ },
+ {
+  "id": 18,
+  "category": "Penalaran Matematika",
+  "topic": "Statistika dan peluang",
+  "subtopic": "Rata-rata dari tabel frekuensi",
+  "difficulty": "medium",
+  "question": "Nilai ulangan 20 siswa: nilai 6 (3 siswa), 7 (5 siswa), 8 (7 siswa), dan 9 (5 siswa). Rata-rata nilai tersebut adalah...",
+  "options": [
+   "7,5",
+   "7,6",
+   "7,7",
+   "7,8",
+   "8,0"
+  ],
+  "answer": "C",
+  "explanation": "Jumlah = 6×3 + 7×5 + 8×7 + 9×5 = 18 + 35 + 56 + 45 = 154. Rata-rata = 154 ÷ 20 = 7,7.",
+  "tips": "Rata-rata tabel = Σ(nilai × frekuensi) ÷ Σ frekuensi.",
+  "time": 90
+ },
+ {
+  "id": 19,
+  "category": "Penalaran Matematika",
+  "topic": "Pemodelan matematika",
+  "subtopic": "Pertumbuhan eksponensial",
+  "difficulty": "hard",
+  "question": "Jumlah bakteri berlipat dua setiap 3 jam. Jika awalnya 500 bakteri, jumlah bakteri setelah 12 jam adalah...",
+  "options": [
+   "2.000",
+   "4.000",
+   "6.000",
+   "8.000",
+   "10.000"
+  ],
+  "answer": "D",
+  "explanation": "Dalam 12 jam terjadi 12 ÷ 3 = 4 kali penggandaan: 500 × 2⁴ = 500 × 16 = 8.000.",
+  "tips": "Banyak periode = waktu total ÷ waktu per periode.",
+  "time": 90,
+  "wrong": {
+   "C": "6.000 muncul bila menambah (bukan melipatgandakan)."
+  }
+ },
+ {
+  "id": 20,
+  "category": "Penalaran Matematika",
+  "topic": "Statistika dan peluang",
+  "subtopic": "Peluang kejadian saling bebas",
+  "difficulty": "medium",
+  "question": "Sebuah koin dan sebuah dadu setimbang dilempar bersamaan. Peluang muncul angka pada koin dan mata dadu prima adalah...",
+  "options": [
+   "1/12",
+   "1/6",
+   "1/3",
+   "1/2",
+   "1/4"
+  ],
+  "answer": "E",
+  "explanation": "Peluang angka = 1/2. Mata dadu prima: 2, 3, 5 → 3/6 = 1/2. Kejadian bebas: 1/2 × 1/2 = 1/4.",
+  "tips": "Kejadian saling bebas → peluang dikalikan.",
+  "time": 75
+ }
+]

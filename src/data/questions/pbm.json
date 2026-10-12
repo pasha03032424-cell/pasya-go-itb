@@ -1,0 +1,382 @@
+[
+ {
+  "id": 1,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Efektivitas kalimat",
+  "difficulty": "medium",
+  "question": "Kalimat yang paling efektif adalah...",
+  "options": [
+   "Para siswa-siswa berkumpul di lapangan",
+   "Berkumpul para siswa-siswa",
+   "Para siswa itu semuanya berkumpul di lapangan sekali",
+   "Siswa-siswa para berkumpul",
+   "Siswa berkumpul di lapangan"
+  ],
+  "answer": "E",
+  "explanation": "Bentuk jamak tidak boleh ganda.",
+  "subtopic": "Kalimat efektif: jamak ganda",
+  "tips": "Cek tiga hal: jamak ganda, pleonasme, dan kelengkapan subjek-predikat.",
+  "time": 45
+ },
+ {
+  "id": 2,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Ide pokok",
+  "difficulty": "easy",
+  "question": "\"Membaca setiap hari melatih fokus. Selain itu, kebiasaan ini memperkaya kosakata.\" Ide pokok paragraf tersebut adalah...",
+  "options": [
+   "Kosakata sulit dipelajari",
+   "Membaca harus pagi hari",
+   "Fokus tidak dapat dilatih",
+   "Membaca membosankan",
+   "Membaca rutin membawa banyak manfaat"
+  ],
+  "answer": "E",
+  "explanation": "Kalimat penjelas menguraikan manfaat membaca rutin.",
+  "subtopic": "Ide pokok paragraf",
+  "tips": "Kalimat pertama biasanya ide pokok; kalimat berikutnya yang diawali \"selain itu\" biasanya penjelas.",
+  "time": 45
+ },
+ {
+  "id": 3,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kata baku dan tidak baku",
+  "subtopic": "Kelompok kata baku",
+  "difficulty": "easy",
+  "question": "Kelompok kata yang seluruhnya baku adalah...",
+  "options": [
+   "aktivitas, analisis, risiko",
+   "aktifitas, analisa, resiko",
+   "aktifitas, analisis, risiko",
+   "aktivitas, analisa, risiko",
+   "aktivitas, analisis, resiko"
+  ],
+  "answer": "A",
+  "explanation": "Bentuk baku: aktivitas, analisis, risiko. Bentuk tidak baku: aktifitas, analisa, resiko.",
+  "tips": "Hafalkan pasangan yang sering keliru: aktivitas, analisis, risiko, praktik, apotek.",
+  "time": 45
+ },
+ {
+  "id": 4,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kata baku dan tidak baku",
+  "subtopic": "Kata tidak baku dalam kalimat",
+  "difficulty": "easy",
+  "question": "Kata tidak baku dalam kalimat \"Ia membeli obat di apotik dekat sekolah dan membayar dengan uang tunai\" adalah...",
+  "options": [
+   "obat",
+   "dekat",
+   "sekolah",
+   "tunai",
+   "apotik"
+  ],
+  "answer": "E",
+  "explanation": "Bentuk baku adalah apotek.",
+  "tips": "Cek kata serapan: apotek, praktik, hierarki, izin.",
+  "time": 40
+ },
+ {
+  "id": 5,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Ejaan dan tanda baca",
+  "subtopic": "Huruf kapital dan koma",
+  "difficulty": "medium",
+  "question": "Kalimat yang penulisan ejaan dan tanda bacanya tepat adalah...",
+  "options": [
+   "Saya akan pergi ke Pulau jawa bulan juni.",
+   "Adik bertanya, \"kapan Ibu pulang?\"",
+   "Dia mahasiswa Universitas Sumatera utara.",
+   "Ibu pergi ke pasar membeli sayur, buah, dan ikan.",
+   "\"Aku lapar\" kata Dina."
+  ],
+  "answer": "D",
+  "explanation": "A: \"Jawa\" dan \"Juni\" harus kapital. B: kutipan langsung diawali huruf kapital (\"Kapan\"). D: nama institusi \"Utara\" kapital. E: perlu koma sebelum tanda petik penutup: \"Aku lapar,\" kata Dina.",
+  "tips": "Periksa nama geografi, bulan, institusi, dan awal kutipan langsung.",
+  "time": 75
+ },
+ {
+  "id": 6,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Ejaan dan tanda baca",
+  "subtopic": "Koma pada anak kalimat",
+  "difficulty": "medium",
+  "question": "Kalimat yang tanda bacanya tepat adalah...",
+  "options": [
+   "Dia tetap bekerja, meskipun lelah.",
+   "Meskipun lelah dia tetap bekerja.",
+   "Dia, tetap bekerja meskipun lelah.",
+   "Meskipun lelah, dia tetap bekerja.",
+   "Meskipun, lelah dia tetap bekerja."
+  ],
+  "answer": "D",
+  "explanation": "Anak kalimat yang mendahului induk kalimat diikuti koma. Jika anak kalimat di belakang, tidak perlu koma.",
+  "tips": "Anak kalimat di depan → koma; di belakang → tanpa koma.",
+  "time": 60
+ },
+ {
+  "id": 7,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kalimat efektif",
+  "subtopic": "Pleonasme dan jamak ganda",
+  "difficulty": "medium",
+  "question": "Kalimat yang efektif adalah...",
+  "options": [
+   "Para peserta-peserta rapat telah hadir.",
+   "Semua para peserta rapat telah hadir.",
+   "Para peserta rapat semuanya sudah pada hadir.",
+   "Semua peserta rapat telah hadir.",
+   "Peserta rapat para semuanya telah hadir."
+  ],
+  "answer": "D",
+  "explanation": "\"Semua\" sudah menyatakan jamak; \"para\" atau pengulangan jamak menjadi berlebihan.",
+  "tips": "Satu penanda jamak sudah cukup (semua, para, atau pengulangan).",
+  "time": 60
+ },
+ {
+  "id": 8,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kalimat efektif",
+  "subtopic": "Pleonasme",
+  "difficulty": "easy",
+  "question": "Kalimat yang mengandung pleonasme adalah...",
+  "options": [
+   "Ibu memasak di dapur.",
+   "Adik membaca buku di perpustakaan.",
+   "Anak itu naik ke atas pohon.",
+   "Ayah pergi ke kantor.",
+   "Kami berlatih setiap pagi."
+  ],
+  "answer": "C",
+  "explanation": "\"Naik\" sudah menyatakan arah ke atas, sehingga \"naik ke atas\" berlebihan.",
+  "tips": "Contoh pleonasme: naik ke atas, turun ke bawah, mundur ke belakang.",
+  "time": 40
+ },
+ {
+  "id": 9,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kalimat efektif",
+  "subtopic": "Subjek kalimat",
+  "difficulty": "easy",
+  "question": "Kalimat yang efektif adalah...",
+  "options": [
+   "Di sekolah itu mewajibkan siswa memakai seragam.",
+   "Sekolah itu mewajibkan siswa memakai seragam.",
+   "Pada sekolah itu, mewajibkan seragam siswa.",
+   "Bagi siswa di sekolah itu mewajibkan seragam.",
+   "Di dalam sekolah itu, mewajibkan siswanya seragam."
+  ],
+  "answer": "B",
+  "explanation": "Kalimat harus bersubjek. Frasa berpreposisi (di sekolah itu) tidak dapat menjadi subjek.",
+  "tips": "Cari subjek: pelaku/hal yang diterangkan; buang preposisi di awal.",
+  "time": 45
+ },
+ {
+  "id": 10,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Struktur paragraf",
+  "subtopic": "Letak ide pokok",
+  "difficulty": "medium",
+  "question": "Kemarin siswa kelas X mengadakan kerja bakti. Mereka membersihkan selokan, mengecat pagar, dan menanam bunga. Kegiatan ini menunjukkan bahwa siswa peduli terhadap lingkungan sekolah. Paragraf tersebut berpola...",
+  "options": [
+   "Deduktif: ide pokok di awal",
+   "Deduktif: ide pokok di tengah",
+   "Campuran: ide pokok di awal dan akhir",
+   "Naratif tanpa ide pokok",
+   "Induktif: ide pokok di akhir"
+  ],
+  "answer": "E",
+  "explanation": "Rincian kegiatan di awal, simpulan (ide pokok) di kalimat terakhir → induktif.",
+  "tips": "Deduktif: umum→khusus; induktif: khusus→umum.",
+  "time": 60
+ },
+ {
+  "id": 11,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Struktur paragraf",
+  "subtopic": "Kalimat utama",
+  "difficulty": "easy",
+  "question": "(1) Olahraga teratur menjaga kebugaran tubuh. (2) Jantung menjadi lebih kuat. (3) Berat badan lebih terkendali. (4) Suasana hati lebih baik. Kalimat utama paragraf tersebut adalah kalimat...",
+  "options": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)",
+   "(2) dan (3)"
+  ],
+  "answer": "A",
+  "explanation": "Kalimat (1) memuat gagasan umum; kalimat lain merinci manfaat.",
+  "tips": "Kalimat utama bersifat umum dan dijelaskan kalimat lain.",
+  "time": 45
+ },
+ {
+  "id": 12,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kepaduan dan koherensi",
+  "subtopic": "Menyusun kalimat menjadi paragraf",
+  "difficulty": "medium",
+  "question": "Susunan kalimat yang padu: (1) Akibatnya, banyak tanaman mati. (2) Musim kemarau tahun ini lebih panjang dari biasanya. (3) Sumber air di desa menyusut. (4) Para petani pun gagal panen.",
+  "options": [
+   "(1)-(2)-(3)-(4)",
+   "(2)-(1)-(3)-(4)",
+   "(3)-(2)-(4)-(1)",
+   "(2)-(3)-(1)-(4)",
+   "(2)-(4)-(3)-(1)"
+  ],
+  "answer": "D",
+  "explanation": "Kemarau panjang (2) → sumber air menyusut (3) → akibatnya tanaman mati (1) → petani gagal panen (4).",
+  "tips": "Cari kalimat awal (tanpa penanda \"akibatnya\") lalu telusuri rantai sebab-akibat.",
+  "time": 75
+ },
+ {
+  "id": 13,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Penempatan kalimat dan konjungsi",
+  "subtopic": "Konjungsi intrakalimat",
+  "difficulty": "easy",
+  "question": "\"Ia belajar dengan tekun, ... ia lulus dengan nilai terbaik.\" Konjungsi yang tepat untuk melengkapi kalimat adalah...",
+  "options": [
+   "sehingga",
+   "padahal",
+   "tetapi",
+   "meskipun",
+   "atau"
+  ],
+  "answer": "A",
+  "explanation": "Hubungan sebab-akibat: belajar tekun menyebabkan lulus dengan nilai terbaik.",
+  "tips": "Tentukan hubungan makna lebih dulu, baru pilih konjungsi.",
+  "time": 40
+ },
+ {
+  "id": 14,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Penempatan kalimat dan konjungsi",
+  "subtopic": "Konjungsi antarkalimat",
+  "difficulty": "easy",
+  "question": "\"Harga BBM naik. ..., ongkos angkutan ikut naik.\" Penghubung antarkalimat yang tepat adalah...",
+  "options": [
+   "Namun",
+   "Sebaliknya",
+   "Misalnya",
+   "Meskipun demikian",
+   "Oleh karena itu"
+  ],
+  "answer": "E",
+  "explanation": "Kenaikan BBM menjadi sebab; ongkos naik adalah akibat.",
+  "tips": "Antarkalimat: oleh karena itu, akibatnya (sebab-akibat); namun (pertentangan).",
+  "time": 40
+ },
+ {
+  "id": 15,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Ejaan dan tanda baca",
+  "subtopic": "Penulisan di- dan di",
+  "difficulty": "medium",
+  "question": "Penulisan kata depan dan awalan yang tepat terdapat pada kalimat...",
+  "options": [
+   "Buku itu diletakkan di atas meja.",
+   "Adik di jemput ayah.",
+   "Ibu tinggal disini.",
+   "Dia pergi kepasar.",
+   "Surat dikirim kerumah nenek."
+  ],
+  "answer": "A",
+  "explanation": "\"Diletakkan\" awalan di-; \"di atas\" kata depan (dipisah). Lainnya: dijemput, di sini, ke pasar, ke rumah.",
+  "tips": "Awalan di- menempel pada kata kerja; kata depan di dipisah dari tempat.",
+  "time": 60
+ },
+ {
+  "id": 16,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Gagasan utama",
+  "subtopic": "Gagasan utama teks pendek",
+  "difficulty": "medium",
+  "question": "Pemanasan global tidak hanya menaikkan suhu bumi, tetapi juga mengubah pola hujan. Di sebagian wilayah, hujan makin deras dan memicu banjir; di wilayah lain, kemarau memanjang dan menyebabkan kekeringan. Perubahan ini memaksa petani menyesuaikan jadwal tanam. Gagasan utama teks tersebut adalah...",
+  "options": [
+   "Suhu bumi naik setiap tahun",
+   "Banjir terjadi di sebagian wilayah",
+   "Petani harus menanam lebih banyak",
+   "Kekeringan menyebabkan gagal panen",
+   "Pemanasan global mengubah pola hujan dan memengaruhi kehidupan, termasuk pertanian"
+  ],
+  "answer": "E",
+  "explanation": "Opsi E mencakup perubahan pola hujan sekaligus dampaknya; opsi lain hanya rincian.",
+  "tips": "Gagasan utama harus mencakup seluruh paragraf, bukan satu rincian.",
+  "time": 75
+ },
+ {
+  "id": 17,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Ejaan dan tanda baca",
+  "subtopic": "Titik dua",
+  "difficulty": "medium",
+  "question": "Kalimat yang penggunaan tanda titik dua tepat adalah...",
+  "options": [
+   "Kakak membawa: tenda, tikar, dan senter.",
+   "Kakak: membawa tenda, tikar, dan senter.",
+   "Kakak membawa perlengkapan: berikut tenda, tikar, dan senter.",
+   "Kakak membawa perlengkapan berikut: tenda, tikar, dan senter.",
+   "Kakak membawa tenda: tikar, dan senter."
+  ],
+  "answer": "D",
+  "explanation": "Titik dua dipakai setelah pernyataan lengkap yang diikuti rincian. Tidak dipakai langsung sesudah kata kerja yang belum lengkap.",
+  "tips": "Titik dua hanya setelah kalimat lengkap (…berikut:, …sebagai berikut:).",
+  "time": 60
+ },
+ {
+  "id": 18,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kalimat efektif",
+  "subtopic": "Konjungsi ganda",
+  "difficulty": "easy",
+  "question": "Kalimat yang efektif adalah...",
+  "options": [
+   "Karena sakit, maka dia tidak masuk sekolah.",
+   "Oleh karena sakit, sehingga dia tidak masuk.",
+   "Dia sakit, karena itu maka tidak masuk sekolah.",
+   "Karena dia sakit sehingga maka tak masuk.",
+   "Dia tidak masuk sekolah karena sakit."
+  ],
+  "answer": "E",
+  "explanation": "Anak kalimat dan induk kalimat tidak boleh dihubungkan dua konjungsi sekaligus (karena…, maka…).",
+  "tips": "Satu hubungan = satu konjungsi.",
+  "time": 45
+ },
+ {
+  "id": 19,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kata baku dan tidak baku",
+  "subtopic": "Kata serapan baku",
+  "difficulty": "easy",
+  "question": "Bentuk baku dari \"kwalitas\" dan \"sistim\" adalah...",
+  "options": [
+   "kwalitas, sistim",
+   "kualitas, sistem",
+   "kwalitas, sistem",
+   "kualitas, sistim",
+   "qualitas, sistem"
+  ],
+  "answer": "B",
+  "explanation": "Bentuk baku: kualitas dan sistem.",
+  "tips": "Ingat: kualitas, kuantitas, sistem, hakikat.",
+  "time": 35
+ },
+ {
+  "id": 20,
+  "category": "Pemahaman Bacaan dan Menulis",
+  "topic": "Kepaduan dan koherensi",
+  "subtopic": "Kalimat tidak padu",
+  "difficulty": "hard",
+  "question": "(1) Kopi Gayo dari Aceh dikenal beraroma kuat. (2) Biji kopi ditanam di dataran tinggi berketinggian lebih dari 1.000 meter. (3) Ketinggian dan suhu sejuk membuat buah kopi matang perlahan sehingga rasanya kompleks. (4) Harga emas dunia sedang meningkat tajam. (5) Karena itu, kopi Gayo diminati pasar internasional. Kalimat yang tidak padu dengan paragraf adalah kalimat...",
+  "options": [
+   "(1)",
+   "(2)",
+   "(3)",
+   "(4)",
+   "(5)"
+  ],
+  "answer": "D",
+  "explanation": "Seluruh kalimat membahas keunggulan kopi Gayo; kalimat (4) tentang harga emas tidak berhubungan.",
+  "tips": "Cari kalimat yang membawa topik baru yang tidak mendukung ide pokok.",
+  "time": 75
+ }
+]

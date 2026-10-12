@@ -1,0 +1,385 @@
+[
+ {
+  "id": 1,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Kosakata",
+  "difficulty": "easy",
+  "question": "Kata \"efisien\" paling tepat bermakna...",
+  "options": [
+   "Berlebihan",
+   "Rumit",
+   "Sangat mahal",
+   "Terlambat",
+   "Tepat guna tanpa pemborosan"
+  ],
+  "answer": "E",
+  "explanation": "Efisien berarti hasil maksimal dengan sedikit pemborosan.",
+  "subtopic": "Makna kata",
+  "tips": "Hubungkan dengan akar kata: efisien terkait \"efek/hasil\" tanpa pemborosan.",
+  "time": 40
+ },
+ {
+  "id": 2,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Hubungan antargagasan",
+  "difficulty": "medium",
+  "question": "Antonim yang paling tepat untuk \"transparan\" adalah...",
+  "options": [
+   "Tertutup",
+   "Terbuka",
+   "Jelas",
+   "Bening",
+   "Nyata"
+  ],
+  "answer": "A",
+  "explanation": "Transparan berarti terbuka; lawannya tertutup.",
+  "subtopic": "Antonim",
+  "tips": "Tentukan dulu sinonim yang tepat (terbuka), lalu cari lawannya (tertutup).",
+  "time": 40
+ },
+ {
+  "id": 3,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Sinonim dan antonim",
+  "subtopic": "Sinonim",
+  "difficulty": "easy",
+  "question": "Sinonim kata \"optimal\" adalah...",
+  "options": [
+   "Terburuk",
+   "Seadanya",
+   "Terlambat",
+   "Sederhana",
+   "Paling baik"
+  ],
+  "answer": "E",
+  "explanation": "Optimal berarti terbaik atau paling menguntungkan.",
+  "tips": "Gunakan kata dalam kalimat sendiri untuk menguji kecocokan makna.",
+  "time": 40
+ },
+ {
+  "id": 4,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Sinonim dan antonim",
+  "subtopic": "Sinonim",
+  "difficulty": "easy",
+  "question": "Kata \"konsisten\" paling dekat maknanya dengan...",
+  "options": [
+   "Berubah-ubah",
+   "Acak",
+   "Ragu-ragu",
+   "Sementara",
+   "Ajek atau taat asas"
+  ],
+  "answer": "E",
+  "explanation": "Konsisten berarti tetap, tidak berubah-ubah (ajek, taat asas).",
+  "tips": "Cari akar kata: konsisten ~ \"tetap pada pendirian\".",
+  "time": 40
+ },
+ {
+  "id": 5,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Sinonim dan antonim",
+  "subtopic": "Antonim",
+  "difficulty": "medium",
+  "question": "Antonim kata \"kolektif\" adalah...",
+  "options": [
+   "Bersama",
+   "Gabungan",
+   "Massal",
+   "Umum",
+   "Perseorangan"
+  ],
+  "answer": "E",
+  "explanation": "Kolektif berarti secara bersama-sama; lawannya perseorangan/individual.",
+  "tips": "Tentukan makna dulu, baru cari lawannya; hindari sinonim.",
+  "time": 40
+ },
+ {
+  "id": 6,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Makna kata dan istilah",
+  "subtopic": "Antonim istilah",
+  "difficulty": "medium",
+  "question": "Antonim kata \"abstrak\" adalah...",
+  "options": [
+   "Samar",
+   "Konkret",
+   "Rumit",
+   "Mutlak",
+   "Teoretis"
+  ],
+  "answer": "B",
+  "explanation": "Abstrak = tidak berwujud/hanya dalam pikiran. Lawannya konkret = nyata dan dapat diamati.",
+  "tips": "Pasangan antonim populer: abstrak–konkret, subjektif–objektif.",
+  "time": 40
+ },
+ {
+  "id": 7,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Hubungan antarkata",
+  "subtopic": "Analogi profesi-alat",
+  "difficulty": "easy",
+  "question": "Dokter : stetoskop = petani : ...",
+  "options": [
+   "Cangkul",
+   "Sawah",
+   "Padi",
+   "Pupuk",
+   "Desa"
+  ],
+  "answer": "A",
+  "explanation": "Hubungannya profesi dan alat kerja utama. Stetoskop alat dokter; cangkul alat petani.",
+  "tips": "Rumuskan hubungan dalam satu kalimat lalu terapkan ke pasangan kedua.",
+  "time": 45
+ },
+ {
+  "id": 8,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Hubungan antarkata",
+  "subtopic": "Analogi kebutuhan-tindakan",
+  "difficulty": "easy",
+  "question": "Haus : minum = lapar : ...",
+  "options": [
+   "Masak",
+   "Kenyang",
+   "Nasi",
+   "Piring",
+   "Makan"
+  ],
+  "answer": "E",
+  "explanation": "Hubungannya kebutuhan dan tindakan memenuhinya. Haus dipenuhi dengan minum; lapar dengan makan.",
+  "tips": "Waspadai opsi yang berupa akibat (kenyang) padahal soal meminta tindakan.",
+  "time": 45,
+  "wrong": {
+   "B": "Kenyang adalah hasil, bukan tindakan."
+  }
+ },
+ {
+  "id": 9,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Hubungan antarkata",
+  "subtopic": "Analogi pencipta-karya",
+  "difficulty": "medium",
+  "question": "Penulis : novel = komposer : ...",
+  "options": [
+   "Komposisi musik",
+   "Penyanyi",
+   "Panggung",
+   "Konser",
+   "Nada"
+  ],
+  "answer": "A",
+  "explanation": "Hubungannya pencipta dan karya. Penulis menghasilkan novel; komposer menghasilkan komposisi musik.",
+  "tips": "Pertahankan arah hubungan (pencipta → karya).",
+  "time": 45
+ },
+ {
+  "id": 10,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Makna kontekstual",
+  "subtopic": "Makna kata dalam kalimat",
+  "difficulty": "medium",
+  "question": "\"Pemerintah berupaya menekan angka pengangguran.\" Makna kata \"menekan\" pada kalimat tersebut adalah...",
+  "options": [
+   "Mengurangi",
+   "Memeras",
+   "Mendorong",
+   "Menginjak",
+   "Menahan napas"
+  ],
+  "answer": "A",
+  "explanation": "Dalam konteks angka, menekan berarti mengurangi atau menurunkan.",
+  "tips": "Ganti kata dengan tiap pilihan dan uji kewajaran kalimat.",
+  "time": 45
+ },
+ {
+  "id": 11,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Makna kontekstual",
+  "subtopic": "Makna istilah dalam konteks",
+  "difficulty": "medium",
+  "question": "\"Hasil penelitian itu diragukan karena sampelnya tidak representatif.\" Makna \"representatif\" adalah...",
+  "options": [
+   "Berasal dari kota",
+   "Berukuran besar",
+   "Dipilih sendiri oleh peneliti",
+   "Mudah dihitung",
+   "Mewakili keseluruhan populasi"
+  ],
+  "answer": "E",
+  "explanation": "Representatif berarti dapat mewakili keseluruhan kelompok yang diteliti.",
+  "tips": "Perhatikan alasan di kalimat: sampel \"tidak mewakili\" → penelitian diragukan.",
+  "time": 50
+ },
+ {
+  "id": 12,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Makna kata dan istilah",
+  "subtopic": "Istilah umum",
+  "difficulty": "medium",
+  "question": "Mitigasi bencana adalah...",
+  "options": [
+   "Penanganan darurat setelah bencana terjadi",
+   "Pemberian bantuan logistik",
+   "Pemindahan seluruh penduduk",
+   "Upaya mengurangi risiko dan dampak bencana",
+   "Penelitian penyebab gempa"
+  ],
+  "answer": "D",
+  "explanation": "Mitigasi berarti upaya mengurangi risiko dan dampak bencana, baik struktural maupun nonstruktural.",
+  "tips": "Awalan kata: mitigasi (mengurangi) ≠ respons darurat.",
+  "time": 45
+ },
+ {
+  "id": 13,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Ide pokok dan informasi penting",
+  "subtopic": "Ide pokok paragraf",
+  "difficulty": "medium",
+  "question": "Banyak kota besar mulai membatasi kendaraan pribadi di pusat kota. Kebijakan ganjil-genap, jalur khusus bus, dan tarif parkir tinggi diterapkan. Hasilnya, kemacetan di kawasan pusat berkurang dan kualitas udara membaik. Ide pokok paragraf tersebut adalah...",
+  "options": [
+   "Tarif parkir di kota besar tinggi",
+   "Bus lebih efisien daripada mobil",
+   "Kualitas udara kota besar buruk",
+   "Pembatasan kendaraan pribadi di kota besar membawa dampak positif",
+   "Kemacetan hanya terjadi di pusat kota"
+  ],
+  "answer": "D",
+  "explanation": "Kalimat pertama memuat gagasan utama (pembatasan kendaraan), kalimat lain menjelaskan bentuk dan hasilnya.",
+  "tips": "Ide pokok = gagasan yang tercakup semua kalimat; hindari rincian.",
+  "time": 60
+ },
+ {
+  "id": 14,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Hubungan antarparagraf",
+  "subtopic": "Hubungan antarkalimat",
+  "difficulty": "easy",
+  "question": "\"Harga bahan pokok naik. Akibatnya, daya beli masyarakat menurun.\" Hubungan antarkalimat tersebut adalah...",
+  "options": [
+   "Pertentangan",
+   "Tujuan",
+   "Syarat",
+   "Sebab-akibat",
+   "Perbandingan"
+  ],
+  "answer": "D",
+  "explanation": "Kata \"akibatnya\" menandai hubungan sebab-akibat: harga naik menyebabkan daya beli turun.",
+  "tips": "Hafalkan penanda: karena/akibatnya (sebab-akibat), namun/tetapi (pertentangan).",
+  "time": 40
+ },
+ {
+  "id": 15,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Pemahaman teks",
+  "subtopic": "Informasi tersurat",
+  "difficulty": "medium",
+  "question": "Perpustakaan buka setiap hari pukul 08.00–16.00 kecuali Minggu dan hari libur nasional. Pada hari Sabtu perpustakaan hanya buka sampai pukul 12.00. Pernyataan yang sesuai dengan teks adalah...",
+  "options": [
+   "Perpustakaan buka pada hari Minggu pagi",
+   "Perpustakaan tutup pukul 16.00 pada hari Sabtu",
+   "Perpustakaan buka 24 jam",
+   "Perpustakaan hanya buka lima hari seminggu",
+   "Perpustakaan tutup jika 17 Agustus jatuh pada hari Senin"
+  ],
+  "answer": "E",
+  "explanation": "17 Agustus libur nasional, sehingga tutup meskipun hari Senin.",
+  "tips": "Cocokkan tiap opsi dengan teks, jangan pakai asumsi sendiri.",
+  "time": 60
+ },
+ {
+  "id": 16,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Penalaran verbal",
+  "subtopic": "Fakta dan opini",
+  "difficulty": "easy",
+  "question": "Kalimat yang merupakan opini adalah...",
+  "options": [
+   "Jakarta dilintasi Sungai Ciliwung",
+   "Jakarta adalah ibu kota Indonesia",
+   "Jakarta terletak di Pulau Jawa",
+   "Jakarta memiliki sistem transportasi bus raya",
+   "Jakarta adalah kota yang paling nyaman dihuni"
+  ],
+  "answer": "E",
+  "explanation": "Opini memuat penilaian subjektif (\"paling nyaman\"), tidak dapat dibuktikan objektif.",
+  "tips": "Kata penilaian (paling, indah, nyaman) sering menandai opini.",
+  "time": 40
+ },
+ {
+  "id": 17,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Makna kata dan istilah",
+  "subtopic": "Padanan kata baku",
+  "difficulty": "easy",
+  "question": "Padanan kata baku untuk \"upload\" dalam bahasa Indonesia adalah...",
+  "options": [
+   "Mengunduh",
+   "Menyimpan",
+   "Menyalin",
+   "Mengunggah",
+   "Memindai"
+  ],
+  "answer": "D",
+  "explanation": "Upload = unggah; download = unduh.",
+  "tips": "Ingat pasangan: unggah (naik/upload) dan unduh (turun/download).",
+  "time": 30
+ },
+ {
+  "id": 18,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Makna kata dan istilah",
+  "subtopic": "Peribahasa",
+  "difficulty": "medium",
+  "question": "Peribahasa \"air tenang menghanyutkan\" bermakna...",
+  "options": [
+   "Banjir datang tiba-tiba",
+   "Air sungai yang tenang itu aman",
+   "Orang pendiam pasti lemah",
+   "Orang yang pendiam sering menyimpan kemampuan atau bahaya yang tidak terduga",
+   "Orang yang banyak bicara berbahaya"
+  ],
+  "answer": "D",
+  "explanation": "Makna kias: orang yang tampak tenang/pendiam bisa memiliki kekuatan atau dampak besar.",
+  "tips": "Pahami makna kias, bukan arti harfiah.",
+  "time": 45
+ },
+ {
+  "id": 19,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Hubungan antarparagraf",
+  "subtopic": "Hubungan konsesi",
+  "difficulty": "medium",
+  "question": "\"Meskipun telah berlatih keras, tim itu kalah di babak final.\" Hubungan antarklausa tersebut menyatakan...",
+  "options": [
+   "Sebab-akibat",
+   "Tujuan",
+   "Syarat",
+   "Urutan waktu",
+   "Pertentangan atau konsesi"
+  ],
+  "answer": "E",
+  "explanation": "\"Meskipun\" menunjukkan hal yang berlawanan dengan harapan: latihan keras, tetapi kalah.",
+  "tips": "Konjungsi konsesi: meskipun, walaupun, sekalipun.",
+  "time": 45
+ },
+ {
+  "id": 20,
+  "category": "Pengetahuan dan Pemahaman Umum",
+  "topic": "Pemahaman teks",
+  "subtopic": "Inferensi",
+  "difficulty": "hard",
+  "question": "Sejak pembayaran digital meluas, transaksi tunai di pasar tradisional menurun. Pedagang yang tidak menyediakan opsi pembayaran digital mengeluhkan berkurangnya pelanggan muda. Simpulan yang paling didukung teks adalah...",
+  "options": [
+   "Pedagang yang menerima pembayaran digital berpeluang lebih besar mempertahankan pelanggan muda",
+   "Pasar tradisional akan ditutup",
+   "Pelanggan muda tidak suka berbelanja di pasar",
+   "Pembayaran tunai akan hilang dalam setahun",
+   "Pembayaran digital lebih aman daripada tunai"
+  ],
+  "answer": "A",
+  "explanation": "Teks menghubungkan ketiadaan opsi digital dengan berkurangnya pelanggan muda, sehingga menyediakan opsi digital berpeluang mempertahankan mereka.",
+  "tips": "Pilih simpulan yang paling dekat dengan teks dan tidak berlebihan (\"pasti\", \"hilang\").",
+  "time": 75
+ }
+]

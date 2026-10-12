@@ -1,0 +1,415 @@
+[
+ {
+  "id": 1,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Aljabar",
+  "difficulty": "easy",
+  "question": "Jika 2x + 5 = 17, maka nilai x adalah...",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer": "C",
+  "explanation": "2x = 12, jadi x = 6.",
+  "subtopic": "Persamaan linear satu variabel",
+  "tips": "Pindahkan konstanta ke ruas kanan, lalu bagi dengan koefisien x.",
+  "time": 45
+ },
+ {
+  "id": 2,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Perbandingan",
+  "difficulty": "medium",
+  "question": "Tiga perempat dari 80 adalah...",
+  "options": [
+   "50",
+   "55",
+   "60",
+   "65",
+   "70"
+  ],
+  "answer": "C",
+  "explanation": "3/4 × 80 = 60.",
+  "subtopic": "Pecahan dari suatu bilangan",
+  "tips": "Bagi dengan penyebut dahulu, lalu kalikan dengan pembilang: 80÷4=20, ×3=60.",
+  "time": 45
+ },
+ {
+  "id": 3,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Persentase dan diskon",
+  "subtopic": "Harga setelah diskon",
+  "difficulty": "easy",
+  "question": "Harga sebuah buku Rp80.000 dan mendapat diskon 25%. Uang yang harus dibayar adalah...",
+  "options": [
+   "Rp55.000",
+   "Rp60.000",
+   "Rp65.000",
+   "Rp20.000",
+   "Rp75.000"
+  ],
+  "answer": "B",
+  "explanation": "Diskon = 25% × 80.000 = 20.000. Harga bayar = 80.000 − 20.000 = 60.000. Cara cepat: bayar 75% × 80.000 = 60.000.",
+  "tips": "Baca yang ditanya: besar diskon atau harga akhir? Lebih cepat langsung hitung (100% − diskon).",
+  "time": 45,
+  "wrong": {
+   "D": "Ini besar diskonnya, bukan harga yang dibayar."
+  }
+ },
+ {
+  "id": 4,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Rasio dan perbandingan",
+  "subtopic": "Pembagian berdasarkan rasio",
+  "difficulty": "easy",
+  "question": "Uang Ayu dan Budi berbanding 3 : 5. Jika jumlah uang mereka Rp160.000, uang Budi adalah...",
+  "options": [
+   "Rp60.000",
+   "Rp80.000",
+   "Rp90.000",
+   "Rp100.000",
+   "Rp120.000"
+  ],
+  "answer": "D",
+  "explanation": "Jumlah bagian = 3 + 5 = 8. Satu bagian = 160.000 ÷ 8 = 20.000. Uang Budi = 5 × 20.000 = 100.000.",
+  "tips": "Jumlahkan dulu bagian rasio, cari nilai satu bagian, baru kalikan.",
+  "time": 60,
+  "wrong": {
+   "A": "Ini uang Ayu (3 bagian), bukan Budi."
+  }
+ },
+ {
+  "id": 5,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Sistem persamaan linear",
+  "subtopic": "Eliminasi dua variabel",
+  "difficulty": "medium",
+  "question": "Diketahui 2x + y = 11 dan x − y = 1. Nilai x + y adalah...",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "answer": "C",
+  "explanation": "Jumlahkan kedua persamaan: 3x = 12, sehingga x = 4. Dari x − y = 1 diperoleh y = 3. Jadi x + y = 7.",
+  "tips": "Jika koefisien y berlawanan tanda (+y dan −y), langsung jumlahkan kedua persamaan.",
+  "time": 75
+ },
+ {
+  "id": 6,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Barisan dan deret",
+  "subtopic": "Suku ke-n barisan aritmetika",
+  "difficulty": "medium",
+  "question": "Pada barisan aritmetika, suku ke-5 adalah 17 dan suku ke-9 adalah 33. Suku ke-12 adalah...",
+  "options": [
+   "41",
+   "43",
+   "45",
+   "47",
+   "49"
+  ],
+  "answer": "C",
+  "explanation": "Beda b = (33 − 17) ÷ (9 − 5) = 4. Suku pertama a = U5 − 4b = 17 − 16 = 1. U12 = a + 11b = 1 + 44 = 45.",
+  "tips": "Beda = selisih suku ÷ selisih nomor suku. Atau lompat langsung: U12 = U9 + 3b = 33 + 12 = 45.",
+  "time": 90
+ },
+ {
+  "id": 7,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Peluang",
+  "subtopic": "Peluang dua dadu",
+  "difficulty": "medium",
+  "question": "Dua dadu setimbang dilempar bersamaan. Peluang munculnya mata dadu berjumlah 8 adalah...",
+  "options": [
+   "1/6",
+   "5/36",
+   "1/9",
+   "7/36",
+   "5/12"
+  ],
+  "answer": "B",
+  "explanation": "Ruang sampel 6 × 6 = 36. Pasangan berjumlah 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 pasangan. Peluang = 5/36.",
+  "tips": "Daftar pasangan secara berurutan agar tidak ada yang terlewat atau terhitung ganda.",
+  "time": 75,
+  "wrong": {
+   "C": "1/9 = 4/36, hanya 4 pasangan; (4,4) tidak boleh terlewat."
+  }
+ },
+ {
+  "id": 8,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Peluang, permutasi, dan kombinasi",
+  "subtopic": "Kombinasi",
+  "difficulty": "medium",
+  "question": "Dari 7 siswa akan dipilih 3 orang untuk mewakili sekolah tanpa membedakan jabatan. Banyak cara memilih adalah...",
+  "options": [
+   "21",
+   "35",
+   "42",
+   "70",
+   "210"
+  ],
+  "answer": "B",
+  "explanation": "Tanpa membedakan jabatan berarti urutan tidak penting, sehingga memakai kombinasi: C(7,3) = 7×6×5 ÷ (3×2×1) = 35.",
+  "tips": "Tanya diri: jika dua orang bertukar posisi, apakah hasilnya dianggap berbeda? Jika tidak → kombinasi.",
+  "time": 75,
+  "wrong": {
+   "E": "210 adalah permutasi P(7,3) yang membedakan urutan/jabatan."
+  }
+ },
+ {
+  "id": 9,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Statistika",
+  "subtopic": "Median data genap",
+  "difficulty": "medium",
+  "question": "Median dari data 12, 7, 9, 5, 15, 7, 10, 6 adalah...",
+  "options": [
+   "7",
+   "7,5",
+   "8",
+   "8,5",
+   "9"
+  ],
+  "answer": "C",
+  "explanation": "Urutkan: 5, 6, 7, 7, 9, 10, 12, 15 (8 data). Median = rata-rata data ke-4 dan ke-5 = (7 + 9) ÷ 2 = 8.",
+  "tips": "Selalu urutkan dulu. Jumlah data genap → rata-ratakan dua data tengah.",
+  "time": 75,
+  "wrong": {
+   "A": "Data belum diurutkan atau hanya memakai data ke-4."
+  }
+ },
+ {
+  "id": 10,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Geometri",
+  "subtopic": "Keliling dan luas persegi panjang",
+  "difficulty": "easy",
+  "question": "Keliling sebuah persegi panjang 36 cm dan panjangnya dua kali lebarnya. Luas persegi panjang tersebut adalah... cm².",
+  "options": [
+   "54",
+   "64",
+   "72",
+   "81",
+   "96"
+  ],
+  "answer": "C",
+  "explanation": "Misal lebar = l, panjang = 2l. Keliling = 2(2l + l) = 6l = 36, jadi l = 6 dan p = 12. Luas = 12 × 6 = 72.",
+  "tips": "Gunakan satu variabel untuk semua sisi, lalu masukkan ke rumus keliling.",
+  "time": 75
+ },
+ {
+  "id": 11,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Persamaan dan pertidaksamaan",
+  "subtopic": "Pertidaksamaan linear",
+  "difficulty": "medium",
+  "question": "Himpunan penyelesaian dari −3x + 4 < 13 adalah...",
+  "options": [
+   "x < −3",
+   "x > −3",
+   "x < 3",
+   "x > 3",
+   "x > −9"
+  ],
+  "answer": "B",
+  "explanation": "−3x < 13 − 4 = 9. Dibagi −3 (bilangan negatif) sehingga tanda berbalik: x > −3. Uji x = 0: 4 < 13 (benar).",
+  "tips": "Ingat: kali/bagi bilangan negatif membalik tanda. Cek dengan satu angka uji.",
+  "time": 60,
+  "wrong": {
+   "A": "Lupa membalik tanda pertidaksamaan."
+  }
+ },
+ {
+  "id": 12,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Fungsi dan grafik",
+  "subtopic": "Nilai fungsi",
+  "difficulty": "medium",
+  "question": "Jika f(x) = 2x² − 3x + 1, maka nilai f(−2) adalah...",
+  "options": [
+   "3",
+   "9",
+   "11",
+   "15",
+   "17"
+  ],
+  "answer": "D",
+  "explanation": "f(−2) = 2(−2)² − 3(−2) + 1 = 2(4) + 6 + 1 = 15.",
+  "tips": "Beri tanda kurung saat substitusi bilangan negatif agar tanda tidak keliru.",
+  "time": 60,
+  "wrong": {
+   "B": "Kemungkinan mengira −3(−2) = −6."
+  }
+ },
+ {
+  "id": 13,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Aritmetika dan rasio",
+  "subtopic": "Kecepatan rata-rata",
+  "difficulty": "hard",
+  "question": "Seseorang berkendara pergi dengan kecepatan 60 km/jam dan pulang lewat jalan yang sama dengan kecepatan 40 km/jam. Kecepatan rata-rata seluruh perjalanan adalah... km/jam.",
+  "options": [
+   "50",
+   "48",
+   "52",
+   "45",
+   "46"
+  ],
+  "answer": "B",
+  "explanation": "Misal jarak satu arah 120 km. Waktu pergi 2 jam, pulang 3 jam. Total 240 km dalam 5 jam = 48 km/jam. Kecepatan rata-rata bukan rata-rata aritmetika (50) karena waktu tempuhnya berbeda.",
+  "tips": "Rata-rata kecepatan = total jarak ÷ total waktu. Pilih jarak kelipatan KPK kedua kecepatan agar mudah dihitung.",
+  "time": 120,
+  "wrong": {
+   "A": "50 adalah rata-rata aritmetika dua kecepatan; hanya benar jika waktu tempuhnya sama."
+  }
+ },
+ {
+  "id": 14,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Persentase dan diskon",
+  "subtopic": "Perubahan persentase berurutan",
+  "difficulty": "hard",
+  "question": "Harga suatu barang naik 20%, kemudian turun 20% dari harga yang baru. Dibandingkan harga semula, harga akhir...",
+  "options": [
+   "Tetap sama",
+   "Turun 1%",
+   "Turun 2%",
+   "Naik 4%",
+   "Turun 4%"
+  ],
+  "answer": "E",
+  "explanation": "Misal harga awal 100. Naik 20% → 120. Turun 20% dari 120 = 24 → 96. Harga akhir 96, turun 4% dari harga awal. Persen turun dihitung dari harga yang lebih besar (120), bukan 100.",
+  "tips": "Misalkan harga awal 100 agar persentase langsung terbaca.",
+  "time": 90,
+  "wrong": {
+   "A": "Persentase naik dan turun berbeda dasar hitungnya."
+  }
+ },
+ {
+  "id": 15,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Geometri",
+  "subtopic": "Luas daerah gabungan/selisih",
+  "difficulty": "hard",
+  "question": "Sebuah lingkaran terbesar digambar di dalam persegi bersisi 10 cm. Luas daerah persegi di luar lingkaran adalah... cm².",
+  "options": [
+   "100 − 25π",
+   "100 − 10π",
+   "100 − 100π",
+   "100 − 5π",
+   "50 − 25π"
+  ],
+  "answer": "A",
+  "explanation": "Diameter lingkaran = sisi persegi = 10, sehingga jari-jari 5 dan luas lingkaran = π × 5² = 25π. Luas daerah = 100 − 25π.",
+  "tips": "Lingkaran terbesar di dalam persegi: diameter = sisi persegi.",
+  "time": 90,
+  "wrong": {
+   "B": "10π adalah keliling-nya bukan luas; jari-jari dikuadratkan."
+  }
+ },
+ {
+  "id": 16,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Operasi bilangan",
+  "subtopic": "KPK dalam konteks",
+  "difficulty": "easy",
+  "question": "Dua lampu berkedip bersama pada detik ke-0. Lampu pertama berkedip tiap 12 detik dan lampu kedua tiap 18 detik. Keduanya berkedip bersama lagi setelah... detik.",
+  "options": [
+   "24",
+   "30",
+   "36",
+   "48",
+   "72"
+  ],
+  "answer": "C",
+  "explanation": "Waktu kedip bersama berikutnya adalah KPK(12, 18) = 36 detik.",
+  "tips": "Kejadian berulang yang bertemu lagi → KPK.",
+  "time": 60
+ },
+ {
+  "id": 17,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Operasi bilangan",
+  "subtopic": "Eksponen",
+  "difficulty": "easy",
+  "question": "Nilai dari (2⁵ × 2³) ÷ 2⁶ adalah...",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "16",
+   "32"
+  ],
+  "answer": "B",
+  "explanation": "Sifat eksponen: 2⁵ × 2³ = 2⁸; 2⁸ ÷ 2⁶ = 2² = 4.",
+  "tips": "Basis sama: kali → jumlahkan pangkat; bagi → kurangkan pangkat.",
+  "time": 45
+ },
+ {
+  "id": 18,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Geometri",
+  "subtopic": "Teorema Pythagoras",
+  "difficulty": "easy",
+  "question": "Sebuah segitiga siku-siku memiliki sisi tegak 9 cm dan 12 cm. Keliling segitiga tersebut adalah... cm.",
+  "options": [
+   "27",
+   "33",
+   "34",
+   "36",
+   "45"
+  ],
+  "answer": "D",
+  "explanation": "Sisi miring = √(9² + 12²) = √225 = 15. Keliling = 9 + 12 + 15 = 36.",
+  "tips": "Hafalkan tripel Pythagoras: 3-4-5, 5-12-13, 9-12-15.",
+  "time": 60,
+  "wrong": {
+   "A": "Lupa menambahkan sisi miring."
+  }
+ },
+ {
+  "id": 19,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Persamaan dan pertidaksamaan",
+  "subtopic": "Persamaan kuadrat",
+  "difficulty": "hard",
+  "question": "Jika x₁ dan x₂ adalah akar-akar persamaan x² − 5x + 6 = 0, maka nilai x₁² + x₂² adalah...",
+  "options": [
+   "11",
+   "12",
+   "13",
+   "14",
+   "15"
+  ],
+  "answer": "C",
+  "explanation": "x₁ + x₂ = 5 dan x₁x₂ = 6. x₁² + x₂² = (x₁ + x₂)² − 2x₁x₂ = 25 − 12 = 13. Cek: akar 2 dan 3, 4 + 9 = 13.",
+  "tips": "Gunakan jumlah dan hasil kali akar tanpa mencari akar.",
+  "time": 90
+ },
+ {
+  "id": 20,
+  "category": "Pengetahuan Kuantitatif",
+  "topic": "Statistika",
+  "subtopic": "Rata-rata dan data hilang",
+  "difficulty": "medium",
+  "question": "Rata-rata lima bilangan adalah 12. Setelah satu bilangan dibuang, rata-rata empat bilangan sisanya menjadi 10. Bilangan yang dibuang adalah...",
+  "options": [
+   "14",
+   "16",
+   "18",
+   "20",
+   "22"
+  ],
+  "answer": "D",
+  "explanation": "Jumlah awal 5 × 12 = 60. Jumlah sisa 4 × 10 = 40. Bilangan dibuang = 60 − 40 = 20.",
+  "tips": "Rata-rata × banyak data = jumlah data.",
+  "time": 75
+ }
+]

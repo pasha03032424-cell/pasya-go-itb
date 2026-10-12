@@ -1,0 +1,600 @@
+[
+ {
+  "id": 1,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Makna kata berdasarkan konteks",
+  "difficulty": "medium",
+  "question": "\"Kebijakan itu menuai kritik karena kurang melibatkan warga.\" Makna \"menuai\" pada kalimat tersebut adalah...",
+  "options": [
+   "Memotong padi",
+   "Menanam",
+   "Memperoleh",
+   "Menghindari",
+   "Menolak"
+  ],
+  "answer": "C",
+  "explanation": "Dalam konteks ini \"menuai\" berarti memperoleh.",
+  "subtopic": "Makna kontekstual",
+  "tips": "Ganti kata bergaris bawah dengan setiap pilihan, lalu pilih yang membuat kalimat tetap wajar.",
+  "time": 60
+ },
+ {
+  "id": 2,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menarik kesimpulan",
+  "difficulty": "easy",
+  "question": "Sebuah kota memperbanyak jalur sepeda dan jumlah pesepeda naik dua kali lipat dalam setahun. Simpulan yang paling didukung teks adalah...",
+  "options": [
+   "Jalur sepeda tidak berguna",
+   "Kendaraan bermotor hilang",
+   "Semua warga bersepeda",
+   "Penambahan jalur sejalan dengan naiknya pesepeda",
+   "Sepeda lebih murah dari mobil"
+  ],
+  "answer": "D",
+  "explanation": "Hanya hubungan jalur dan jumlah pesepeda yang disebut teks.",
+  "subtopic": "Simpulan dari teks pendek",
+  "tips": "Pilih simpulan yang paling sempit dan hanya memakai informasi di teks; hindari kata mutlak seperti \"semua\".",
+  "time": 60
+ },
+ {
+  "id": 3,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menentukan gagasan utama",
+  "subtopic": "Gagasan utama teks",
+  "difficulty": "easy",
+  "passage": "Kota Pelangi dulu dikenal macet. Lima tahun lalu, pemerintah kota membangun 120 kilometer jalur sepeda yang terhubung dengan stasiun dan halte bus. Hasilnya, jumlah pesepeda harian naik dari 8.000 menjadi 31.000 orang. Waktu tempuh rata-rata ke pusat kota turun dari 48 menit menjadi 39 menit. Meski demikian, jumlah kecelakaan yang melibatkan pesepeda meningkat 15% karena banyak persimpangan belum dilengkapi lampu khusus. Dinas perhubungan berencana memasang lampu pengatur di 40 persimpangan tahun depan.",
+  "question": "Gagasan utama teks tersebut adalah...",
+  "options": [
+   "Kota Pelangi dikenal sebagai kota macet",
+   "Stasiun dan halte bus terhubung dengan jalur sepeda",
+   "Pemerintah akan memasang lampu di 40 persimpangan",
+   "Kecelakaan sepeda meningkat 15%",
+   "Jalur sepeda meningkatkan jumlah pesepeda dan mempercepat perjalanan, tetapi menimbulkan masalah keselamatan yang akan ditangani"
+  ],
+  "answer": "E",
+  "explanation": "Teks memuat dampak positif jalur sepeda, masalah kecelakaan, dan rencana penanganannya; opsi E mencakup ketiganya.",
+  "tips": "Gagasan utama mencakup seluruh isi, bukan satu rincian.",
+  "time": 60
+ },
+ {
+  "id": 4,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Memahami informasi tersirat",
+  "subtopic": "Informasi tersurat dan hitungan",
+  "difficulty": "easy",
+  "passage": "Kota Pelangi dulu dikenal macet. Lima tahun lalu, pemerintah kota membangun 120 kilometer jalur sepeda yang terhubung dengan stasiun dan halte bus. Hasilnya, jumlah pesepeda harian naik dari 8.000 menjadi 31.000 orang. Waktu tempuh rata-rata ke pusat kota turun dari 48 menit menjadi 39 menit. Meski demikian, jumlah kecelakaan yang melibatkan pesepeda meningkat 15% karena banyak persimpangan belum dilengkapi lampu khusus. Dinas perhubungan berencana memasang lampu pengatur di 40 persimpangan tahun depan.",
+  "question": "Pernyataan yang sesuai dengan teks adalah...",
+  "options": [
+   "Lampu pengatur sudah terpasang di 40 persimpangan",
+   "Jalur sepeda dibangun sepanjang 40 kilometer",
+   "Pesepeda harian naik dua kali lipat",
+   "Kecelakaan pesepeda turun 15%",
+   "Waktu tempuh ke pusat kota turun 9 menit"
+  ],
+  "answer": "E",
+  "explanation": "48 − 39 = 9 menit. Pesepeda naik hampir empat kali lipat; kecelakaan naik 15%; lampu baru direncanakan.",
+  "tips": "Cocokkan angka pada opsi dengan teks, lalu hitung bila perlu.",
+  "time": 60
+ },
+ {
+  "id": 5,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menarik kesimpulan",
+  "subtopic": "Kesimpulan kuantitatif",
+  "difficulty": "hard",
+  "passage": "Kota Pelangi dulu dikenal macet. Lima tahun lalu, pemerintah kota membangun 120 kilometer jalur sepeda yang terhubung dengan stasiun dan halte bus. Hasilnya, jumlah pesepeda harian naik dari 8.000 menjadi 31.000 orang. Waktu tempuh rata-rata ke pusat kota turun dari 48 menit menjadi 39 menit. Meski demikian, jumlah kecelakaan yang melibatkan pesepeda meningkat 15% karena banyak persimpangan belum dilengkapi lampu khusus. Dinas perhubungan berencana memasang lampu pengatur di 40 persimpangan tahun depan.",
+  "question": "Jumlah pesepeda naik hampir empat kali lipat, sedangkan kecelakaan hanya naik 15%. Simpulan yang paling mungkin adalah...",
+  "options": [
+   "Jalur sepeda tidak aman sama sekali",
+   "Semua pesepeda berhenti memakai jalur",
+   "Kecelakaan akan berhenti tahun depan",
+   "Risiko kecelakaan per pesepeda kemungkinan menurun",
+   "Waktu tempuh meningkat"
+  ],
+  "answer": "D",
+  "explanation": "Pengguna naik ±3,9 kali, kecelakaan hanya ×1,15. Rasio kecelakaan per pengguna kira-kira menurun.",
+  "tips": "Bandingkan pertumbuhan pembilang dan penyebut sebelum menyimpulkan risiko.",
+  "time": 90
+ },
+ {
+  "id": 6,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Analisis hubungan antaride",
+  "subtopic": "Fungsi penghubung antarkalimat",
+  "difficulty": "medium",
+  "passage": "Kota Pelangi dulu dikenal macet. Lima tahun lalu, pemerintah kota membangun 120 kilometer jalur sepeda yang terhubung dengan stasiun dan halte bus. Hasilnya, jumlah pesepeda harian naik dari 8.000 menjadi 31.000 orang. Waktu tempuh rata-rata ke pusat kota turun dari 48 menit menjadi 39 menit. Meski demikian, jumlah kecelakaan yang melibatkan pesepeda meningkat 15% karena banyak persimpangan belum dilengkapi lampu khusus. Dinas perhubungan berencana memasang lampu pengatur di 40 persimpangan tahun depan.",
+  "question": "Frasa \"Meski demikian\" pada teks berfungsi menyatakan...",
+  "options": [
+   "Sebab",
+   "Pertentangan terhadap hasil positif sebelumnya",
+   "Urutan waktu",
+   "Contoh",
+   "Simpulan"
+  ],
+  "answer": "B",
+  "explanation": "Kalimat sebelumnya memuat hasil positif; kalimat sesudahnya memuat masalah (kecelakaan naik).",
+  "tips": "Penanda \"meski demikian\" = kontras dengan informasi sebelumnya.",
+  "time": 45
+ },
+ {
+  "id": 7,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Membaca kritis",
+  "subtopic": "Memahami pokok pembahasan",
+  "difficulty": "easy",
+  "passage": "Sejak tahun lalu, Kabupaten Sumberjaya melarang toko modern memberikan kantong plastik sekali pakai. Pendukung kebijakan berpendapat bahwa volume sampah plastik di tempat pembuangan akhir turun 22% dalam setahun. Penentang menyatakan bahwa kebijakan ini merugikan konsumen karena mereka harus membeli tas belanja seharga Rp3.000, padahal pasar tradisional dan warung, yang menyumbang sebagian besar sampah plastik, tidak dikenai larangan. Seorang peneliti menambahkan bahwa penurunan 22% tersebut dihitung dari seluruh sampah plastik, sedangkan kantong belanja toko modern hanya sekitar 8% dari total timbulan sampah plastik sebelum kebijakan.",
+  "question": "Teks tersebut terutama membahas...",
+  "options": [
+   "Pro dan kontra kebijakan larangan kantong plastik",
+   "Cara membuat tas belanja",
+   "Harga tas belanja di pasar tradisional",
+   "Lokasi tempat pembuangan akhir",
+   "Sejarah pasar tradisional"
+  ],
+  "answer": "A",
+  "explanation": "Teks memaparkan pendapat pendukung, penentang, dan data peneliti tentang kebijakan larangan kantong plastik.",
+  "tips": "Lihat siapa saja yang berpendapat dan tentang apa.",
+  "time": 45
+ },
+ {
+  "id": 8,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Mengevaluasi argumen",
+  "subtopic": "Menilai klaim pendukung",
+  "difficulty": "hard",
+  "passage": "Sejak tahun lalu, Kabupaten Sumberjaya melarang toko modern memberikan kantong plastik sekali pakai. Pendukung kebijakan berpendapat bahwa volume sampah plastik di tempat pembuangan akhir turun 22% dalam setahun. Penentang menyatakan bahwa kebijakan ini merugikan konsumen karena mereka harus membeli tas belanja seharga Rp3.000, padahal pasar tradisional dan warung, yang menyumbang sebagian besar sampah plastik, tidak dikenai larangan. Seorang peneliti menambahkan bahwa penurunan 22% tersebut dihitung dari seluruh sampah plastik, sedangkan kantong belanja toko modern hanya sekitar 8% dari total timbulan sampah plastik sebelum kebijakan.",
+  "question": "Berdasarkan data peneliti, simpulan yang paling tepat tentang klaim penurunan sampah 22% adalah...",
+  "options": [
+   "Seluruh penurunan 22% berasal dari larangan kantong di toko modern",
+   "Pasar tradisional telah ikut dilarang",
+   "Kebijakan itu gagal sepenuhnya",
+   "Penurunan 22% tidak mungkin seluruhnya berasal dari larangan kantong toko modern karena porsinya hanya sekitar 8%",
+   "Sampah plastik meningkat"
+  ],
+  "answer": "D",
+  "explanation": "Jika kantong toko modern hanya ±8% dari total, larangan itu tidak dapat menjelaskan penurunan 22% secara penuh; ada faktor lain.",
+  "tips": "Bandingkan besar efek yang diklaim dengan porsi objek kebijakan.",
+  "time": 90
+ },
+ {
+  "id": 9,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menilai validitas informasi",
+  "subtopic": "Melemahkan argumen penentang",
+  "difficulty": "medium",
+  "passage": "Sejak tahun lalu, Kabupaten Sumberjaya melarang toko modern memberikan kantong plastik sekali pakai. Pendukung kebijakan berpendapat bahwa volume sampah plastik di tempat pembuangan akhir turun 22% dalam setahun. Penentang menyatakan bahwa kebijakan ini merugikan konsumen karena mereka harus membeli tas belanja seharga Rp3.000, padahal pasar tradisional dan warung, yang menyumbang sebagian besar sampah plastik, tidak dikenai larangan. Seorang peneliti menambahkan bahwa penurunan 22% tersebut dihitung dari seluruh sampah plastik, sedangkan kantong belanja toko modern hanya sekitar 8% dari total timbulan sampah plastik sebelum kebijakan.",
+  "question": "Pernyataan yang paling melemahkan keberatan penentang bahwa kebijakan itu merugikan konsumen adalah...",
+  "options": [
+   "Sampah plastik berbahaya bagi laut",
+   "Toko modern banyak jumlahnya",
+   "Warung buka sampai malam",
+   "Tas belanja Rp3.000 dapat dipakai berulang selama bertahun-tahun dan banyak konsumen sudah membawa tas sendiri",
+   "Pasar tradisional ramai di pagi hari"
+  ],
+  "answer": "D",
+  "explanation": "Biaya tas yang tahan lama dan kebiasaan membawa tas sendiri mengurangi anggapan bahwa konsumen dirugikan.",
+  "tips": "Pelemah argumen \"merugikan\" = tunjukkan kerugiannya kecil atau sementara.",
+  "time": 75
+ },
+ {
+  "id": 10,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Memahami informasi tersirat",
+  "subtopic": "Makna kata dalam teks",
+  "difficulty": "medium",
+  "passage": "Sejak tahun lalu, Kabupaten Sumberjaya melarang toko modern memberikan kantong plastik sekali pakai. Pendukung kebijakan berpendapat bahwa volume sampah plastik di tempat pembuangan akhir turun 22% dalam setahun. Penentang menyatakan bahwa kebijakan ini merugikan konsumen karena mereka harus membeli tas belanja seharga Rp3.000, padahal pasar tradisional dan warung, yang menyumbang sebagian besar sampah plastik, tidak dikenai larangan. Seorang peneliti menambahkan bahwa penurunan 22% tersebut dihitung dari seluruh sampah plastik, sedangkan kantong belanja toko modern hanya sekitar 8% dari total timbulan sampah plastik sebelum kebijakan.",
+  "question": "Makna kata \"timbulan\" dalam teks adalah...",
+  "options": [
+   "Kenaikan harga",
+   "Tempat pembuangan",
+   "Jumlah sampah yang dihasilkan",
+   "Pajak sampah",
+   "Daur ulang"
+  ],
+  "answer": "C",
+  "explanation": "Timbulan sampah = jumlah sampah yang dihasilkan dalam suatu waktu atau wilayah.",
+  "tips": "Kata asing dalam teks bisa ditebak dari frasa pendukungnya.",
+  "time": 45
+ },
+ {
+  "id": 11,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Mengevaluasi argumen",
+  "subtopic": "Sikap penulis",
+  "difficulty": "medium",
+  "passage": "Sejak tahun lalu, Kabupaten Sumberjaya melarang toko modern memberikan kantong plastik sekali pakai. Pendukung kebijakan berpendapat bahwa volume sampah plastik di tempat pembuangan akhir turun 22% dalam setahun. Penentang menyatakan bahwa kebijakan ini merugikan konsumen karena mereka harus membeli tas belanja seharga Rp3.000, padahal pasar tradisional dan warung, yang menyumbang sebagian besar sampah plastik, tidak dikenai larangan. Seorang peneliti menambahkan bahwa penurunan 22% tersebut dihitung dari seluruh sampah plastik, sedangkan kantong belanja toko modern hanya sekitar 8% dari total timbulan sampah plastik sebelum kebijakan.",
+  "question": "Sikap penulis teks terhadap kebijakan tersebut adalah...",
+  "options": [
+   "Mendukung sepenuhnya",
+   "Menolak sepenuhnya",
+   "Mengabaikan data",
+   "Menyindir pendukung kebijakan",
+   "Netral dengan memaparkan sudut pandang dan data"
+  ],
+  "answer": "E",
+  "explanation": "Penulis menyajikan pendapat dua pihak dan data tanpa menyatakan sikap sendiri.",
+  "tips": "Sikap netral ditandai tidak adanya kata penilaian dari penulis.",
+  "time": 45
+ },
+ {
+  "id": 12,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Interpretasi tabel, grafik, dan teks",
+  "subtopic": "Kenaikan terbesar",
+  "difficulty": "easy",
+  "passage": "Perusahaan air minum daerah mencatat rata-rata pemakaian air per rumah tangga (dalam m³ per bulan): Januari 18, Februari 16, Maret 19, April 21, Mei 24, Juni 28. Kepala perusahaan menyatakan bahwa kenaikan pemakaian pada April–Juni disebabkan musim kemarau, sedangkan tarif tidak berubah selama periode tersebut.",
+  "question": "Kenaikan pemakaian air terbesar dibandingkan bulan sebelumnya terjadi pada bulan...",
+  "options": [
+   "Maret",
+   "April",
+   "Juni",
+   "Mei",
+   "Februari"
+  ],
+  "answer": "C",
+  "explanation": "Perubahan: Feb −2, Mar +3, Apr +2, Mei +3, Jun +4. Terbesar pada Juni.",
+  "tips": "Hitung selisih tiap bulan dengan bulan sebelumnya.",
+  "time": 60
+ },
+ {
+  "id": 13,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Interpretasi tabel, grafik, dan teks",
+  "subtopic": "Rata-rata",
+  "difficulty": "easy",
+  "passage": "Perusahaan air minum daerah mencatat rata-rata pemakaian air per rumah tangga (dalam m³ per bulan): Januari 18, Februari 16, Maret 19, April 21, Mei 24, Juni 28. Kepala perusahaan menyatakan bahwa kenaikan pemakaian pada April–Juni disebabkan musim kemarau, sedangkan tarif tidak berubah selama periode tersebut.",
+  "question": "Rata-rata pemakaian air per rumah tangga selama Januari–Juni adalah... m³.",
+  "options": [
+   "19",
+   "20",
+   "21",
+   "22",
+   "23"
+  ],
+  "answer": "C",
+  "explanation": "Jumlah = 18+16+19+21+24+28 = 126. Rata-rata = 126 ÷ 6 = 21.",
+  "tips": "Jumlahkan semua data lalu bagi banyaknya.",
+  "time": 60
+ },
+ {
+  "id": 14,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menilai validitas informasi",
+  "subtopic": "Bukti pendukung klaim",
+  "difficulty": "medium",
+  "passage": "Perusahaan air minum daerah mencatat rata-rata pemakaian air per rumah tangga (dalam m³ per bulan): Januari 18, Februari 16, Maret 19, April 21, Mei 24, Juni 28. Kepala perusahaan menyatakan bahwa kenaikan pemakaian pada April–Juni disebabkan musim kemarau, sedangkan tarif tidak berubah selama periode tersebut.",
+  "question": "Data yang paling kuat mendukung klaim kepala perusahaan bahwa kenaikan disebabkan kemarau adalah...",
+  "options": [
+   "Jumlah pelanggan bertambah dua kali lipat",
+   "Tarif air di kota lain naik",
+   "Curah hujan April–Juni jauh di bawah rata-rata dibanding tahun-tahun sebelumnya",
+   "Banyak rumah baru dibangun",
+   "Pipa air diganti tahun ini"
+  ],
+  "answer": "C",
+  "explanation": "Data curah hujan rendah selaras dengan klaim kemarau. Opsi lain menjelaskan penyebab lain atau tidak relevan.",
+  "tips": "Bukti pendukung harus langsung mengaitkan penyebab yang diklaim dengan akibatnya.",
+  "time": 75
+ },
+ {
+  "id": 15,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Interpretasi tabel, grafik, dan teks",
+  "subtopic": "Perbandingan persentase",
+  "difficulty": "medium",
+  "passage": "Perusahaan air minum daerah mencatat rata-rata pemakaian air per rumah tangga (dalam m³ per bulan): Januari 18, Februari 16, Maret 19, April 21, Mei 24, Juni 28. Kepala perusahaan menyatakan bahwa kenaikan pemakaian pada April–Juni disebabkan musim kemarau, sedangkan tarif tidak berubah selama periode tersebut.",
+  "question": "Pemakaian air pada Juni dibandingkan Februari...",
+  "options": [
+   "Naik kurang dari 50%",
+   "Naik sekitar 60%",
+   "Turun 25%",
+   "Naik lebih dari 70%",
+   "Tidak berubah"
+  ],
+  "answer": "D",
+  "explanation": "28 ÷ 16 = 1,75, sehingga naik 75%, yaitu lebih dari 70%.",
+  "tips": "Persentase naik = (akhir − awal) ÷ awal × 100%.",
+  "time": 75
+ },
+ {
+  "id": 16,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Analisis hubungan antaride",
+  "subtopic": "Fungsi kalimat",
+  "difficulty": "medium",
+  "passage": "Perusahaan air minum daerah mencatat rata-rata pemakaian air per rumah tangga (dalam m³ per bulan): Januari 18, Februari 16, Maret 19, April 21, Mei 24, Juni 28. Kepala perusahaan menyatakan bahwa kenaikan pemakaian pada April–Juni disebabkan musim kemarau, sedangkan tarif tidak berubah selama periode tersebut.",
+  "question": "Fungsi kalimat kedua pada teks (\"Kepala perusahaan menyatakan ...\") adalah...",
+  "options": [
+   "Membantah data pada kalimat pertama",
+   "Memberikan penjelasan penyebab dari pola data",
+   "Menyimpulkan seluruh teks",
+   "Memberi contoh data lain",
+   "Menyatakan tujuan perusahaan"
+  ],
+  "answer": "B",
+  "explanation": "Kalimat pertama memuat data; kalimat kedua menjelaskan sebab kenaikan April–Juni.",
+  "tips": "Tanyakan: kalimat ini menambah apa pada kalimat sebelumnya?",
+  "time": 45
+ },
+ {
+  "id": 17,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Interpretasi tabel, grafik, dan teks",
+  "subtopic": "Hitungan persentase bertingkat",
+  "difficulty": "medium",
+  "passage": "Survei terhadap 1.250 pelajar menemukan bahwa 68% mengaku pernah membagikan berita tanpa membaca isinya, hanya judulnya. Dari kelompok itu, 40% kemudian mengetahui bahwa berita tersebut keliru. Pakar literasi digital menilai bahwa judul yang provokatif sengaja dirancang agar dibagikan. Ia menyarankan tiga langkah sederhana sebelum membagikan: membaca isi utuh, memeriksa sumber, dan mencari berita serupa di media lain. Namun, ia mengakui bahwa kebiasaan ini sulit dibangun jika pelajar tidak diberi waktu dan contoh nyata di sekolah.",
+  "question": "Banyak pelajar yang membagikan berita tanpa membaca isinya dan kemudian mengetahui beritanya keliru adalah...",
+  "options": [
+   "340",
+   "425",
+   "500",
+   "680",
+   "850"
+  ],
+  "answer": "A",
+  "explanation": "Pelajar yang membagikan tanpa membaca = 68% × 1.250 = 850. Dari mereka, 40% × 850 = 340.",
+  "tips": "Persentase bertingkat: hitung kelompok pertama, lalu persentase dari kelompok itu.",
+  "time": 90
+ },
+ {
+  "id": 18,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menentukan gagasan utama",
+  "subtopic": "Gagasan utama",
+  "difficulty": "medium",
+  "passage": "Survei terhadap 1.250 pelajar menemukan bahwa 68% mengaku pernah membagikan berita tanpa membaca isinya, hanya judulnya. Dari kelompok itu, 40% kemudian mengetahui bahwa berita tersebut keliru. Pakar literasi digital menilai bahwa judul yang provokatif sengaja dirancang agar dibagikan. Ia menyarankan tiga langkah sederhana sebelum membagikan: membaca isi utuh, memeriksa sumber, dan mencari berita serupa di media lain. Namun, ia mengakui bahwa kebiasaan ini sulit dibangun jika pelajar tidak diberi waktu dan contoh nyata di sekolah.",
+  "question": "Gagasan utama teks tersebut adalah...",
+  "options": [
+   "Pelajar tidak suka membaca",
+   "Judul berita harus dilarang",
+   "Semua berita di internet keliru",
+   "Banyak pelajar membagikan berita tanpa membaca isinya, sehingga perlu kebiasaan memverifikasi dengan dukungan sekolah",
+   "Pakar literasi digital menyalahkan sekolah"
+  ],
+  "answer": "D",
+  "explanation": "Teks memaparkan masalah (membagikan tanpa membaca), saran verifikasi, dan syarat dukungan sekolah.",
+  "tips": "Gabungkan masalah, sebab, dan solusi dalam satu kalimat.",
+  "time": 60
+ },
+ {
+  "id": 19,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menilai validitas informasi",
+  "subtopic": "Simpulan tidak didukung",
+  "difficulty": "hard",
+  "passage": "Survei terhadap 1.250 pelajar menemukan bahwa 68% mengaku pernah membagikan berita tanpa membaca isinya, hanya judulnya. Dari kelompok itu, 40% kemudian mengetahui bahwa berita tersebut keliru. Pakar literasi digital menilai bahwa judul yang provokatif sengaja dirancang agar dibagikan. Ia menyarankan tiga langkah sederhana sebelum membagikan: membaca isi utuh, memeriksa sumber, dan mencari berita serupa di media lain. Namun, ia mengakui bahwa kebiasaan ini sulit dibangun jika pelajar tidak diberi waktu dan contoh nyata di sekolah.",
+  "question": "Simpulan yang TIDAK didukung teks adalah...",
+  "options": [
+   "Sebagian pelajar pernah membagikan berita keliru",
+   "Semua pelajar yang membagikan berita tanpa membaca pasti menyebarkan berita keliru",
+   "Judul provokatif dapat mendorong orang membagikan berita",
+   "Ada langkah sederhana untuk memverifikasi berita",
+   "Kebiasaan verifikasi membutuhkan dukungan lingkungan sekolah"
+  ],
+  "answer": "B",
+  "explanation": "Hanya 40% dari kelompok itu yang kemudian tahu beritanya keliru; tidak \"semua pasti\".",
+  "tips": "Waspadai kata mutlak (semua, pasti, selalu) pada simpulan.",
+  "time": 75
+ },
+ {
+  "id": 20,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Analisis hubungan antaride",
+  "subtopic": "Tujuan penulis",
+  "difficulty": "medium",
+  "passage": "Survei terhadap 1.250 pelajar menemukan bahwa 68% mengaku pernah membagikan berita tanpa membaca isinya, hanya judulnya. Dari kelompok itu, 40% kemudian mengetahui bahwa berita tersebut keliru. Pakar literasi digital menilai bahwa judul yang provokatif sengaja dirancang agar dibagikan. Ia menyarankan tiga langkah sederhana sebelum membagikan: membaca isi utuh, memeriksa sumber, dan mencari berita serupa di media lain. Namun, ia mengakui bahwa kebiasaan ini sulit dibangun jika pelajar tidak diberi waktu dan contoh nyata di sekolah.",
+  "question": "Tujuan utama teks tersebut adalah...",
+  "options": [
+   "Menghibur pembaca",
+   "Menceritakan pengalaman pribadi",
+   "Mengkritik pakar",
+   "Mempromosikan media tertentu",
+   "Menyajikan data dan mengajak pembaca memverifikasi berita sebelum membagikan"
+  ],
+  "answer": "E",
+  "explanation": "Teks berisi data survei dan saran langkah verifikasi, sehingga bertujuan menginformasikan sekaligus mengajak.",
+  "tips": "Tujuan penulis terlihat dari jenis isi: data + saran → informasi dan ajakan.",
+  "time": 45
+ },
+ {
+  "id": 21,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Memahami informasi tersirat",
+  "subtopic": "Makna kata",
+  "difficulty": "easy",
+  "passage": "Survei terhadap 1.250 pelajar menemukan bahwa 68% mengaku pernah membagikan berita tanpa membaca isinya, hanya judulnya. Dari kelompok itu, 40% kemudian mengetahui bahwa berita tersebut keliru. Pakar literasi digital menilai bahwa judul yang provokatif sengaja dirancang agar dibagikan. Ia menyarankan tiga langkah sederhana sebelum membagikan: membaca isi utuh, memeriksa sumber, dan mencari berita serupa di media lain. Namun, ia mengakui bahwa kebiasaan ini sulit dibangun jika pelajar tidak diberi waktu dan contoh nyata di sekolah.",
+  "question": "Makna kata \"provokatif\" dalam teks adalah...",
+  "options": [
+   "Menenangkan",
+   "Berisi data lengkap",
+   "Sangat panjang",
+   "Bersifat memancing reaksi atau emosi",
+   "Bersifat netral"
+  ],
+  "answer": "D",
+  "explanation": "Provokatif berarti bersifat memancing (emosi, reaksi).",
+  "tips": "Gunakan konteks: judul dirancang agar dibagikan.",
+  "time": 40
+ },
+ {
+  "id": 22,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Interpretasi tabel, grafik, dan teks",
+  "subtopic": "Selisih pendapatan",
+  "difficulty": "medium",
+  "passage": "Seorang pengusaha keripik singkong menaikkan harga produknya dari Rp12.000 menjadi Rp15.000 per bungkus karena harga bahan baku naik. Penjualan bulanan turun dari 1.000 bungkus menjadi 850 bungkus. Meski demikian, pendapatan kotornya naik. Ia menyimpulkan bahwa pelanggannya tidak sensitif terhadap kenaikan harga. Namun, sebuah penelitian kecil menemukan bahwa sebagian pelanggan lama beralih ke merek lain yang lebih murah, sedangkan pelanggan baru datang karena kemasan yang lebih menarik.",
+  "question": "Kenaikan pendapatan kotor bulanan pengusaha tersebut adalah...",
+  "options": [
+   "Rp500.000",
+   "Rp750.000",
+   "Rp1.000.000",
+   "Rp1.500.000",
+   "Rp2.550.000"
+  ],
+  "answer": "B",
+  "explanation": "Sebelum: 1.000 × 12.000 = 12.000.000. Sesudah: 850 × 15.000 = 12.750.000. Selisih 750.000.",
+  "tips": "Hitung pendapatan = harga × jumlah untuk dua kondisi lalu selisihkan.",
+  "time": 90
+ },
+ {
+  "id": 23,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Mengevaluasi argumen",
+  "subtopic": "Menilai simpulan pengusaha",
+  "difficulty": "hard",
+  "passage": "Seorang pengusaha keripik singkong menaikkan harga produknya dari Rp12.000 menjadi Rp15.000 per bungkus karena harga bahan baku naik. Penjualan bulanan turun dari 1.000 bungkus menjadi 850 bungkus. Meski demikian, pendapatan kotornya naik. Ia menyimpulkan bahwa pelanggannya tidak sensitif terhadap kenaikan harga. Namun, sebuah penelitian kecil menemukan bahwa sebagian pelanggan lama beralih ke merek lain yang lebih murah, sedangkan pelanggan baru datang karena kemasan yang lebih menarik.",
+  "question": "Simpulan pengusaha bahwa pelanggannya tidak sensitif harga kurang kuat karena...",
+  "options": [
+   "Sebagian pelanggan lama beralih ke merek lebih murah dan penjualan turun, sehingga kenaikan pendapatan bisa berasal dari faktor lain",
+   "Pendapatannya naik",
+   "Harga bahan baku naik",
+   "Kemasan lebih menarik",
+   "Penelitian itu berskala kecil sehingga pasti keliru"
+  ],
+  "answer": "A",
+  "explanation": "Penurunan penjualan 15% dan peralihan pelanggan lama menunjukkan sensitivitas harga pada sebagian pelanggan; pendapatan naik sebagian karena harga lebih tinggi dan pelanggan baru.",
+  "tips": "Pisahkan antara hasil (pendapatan) dan sebab (sensitivitas harga).",
+  "time": 90
+ },
+ {
+  "id": 24,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Membaca kritis",
+  "subtopic": "Gagasan utama",
+  "difficulty": "medium",
+  "passage": "Seorang pengusaha keripik singkong menaikkan harga produknya dari Rp12.000 menjadi Rp15.000 per bungkus karena harga bahan baku naik. Penjualan bulanan turun dari 1.000 bungkus menjadi 850 bungkus. Meski demikian, pendapatan kotornya naik. Ia menyimpulkan bahwa pelanggannya tidak sensitif terhadap kenaikan harga. Namun, sebuah penelitian kecil menemukan bahwa sebagian pelanggan lama beralih ke merek lain yang lebih murah, sedangkan pelanggan baru datang karena kemasan yang lebih menarik.",
+  "question": "Gagasan utama teks tersebut adalah...",
+  "options": [
+   "Kemasan keripik sangat penting",
+   "Pengusaha harus menurunkan harga",
+   "Bahan baku keripik mahal",
+   "Pelanggan lama selalu setia",
+   "Kenaikan harga meningkatkan pendapatan, tetapi simpulan bahwa pelanggan tidak sensitif harga perlu dikritisi"
+  ],
+  "answer": "E",
+  "explanation": "Teks menyajikan hasil kenaikan harga, simpulan pengusaha, dan temuan yang membantahnya sebagian.",
+  "tips": "Perhatikan kata \"Namun\" sebagai tanda pertentangan terhadap simpulan awal.",
+  "time": 60
+ },
+ {
+  "id": 25,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Memahami informasi tersirat",
+  "subtopic": "Faktor lain",
+  "difficulty": "medium",
+  "passage": "Seorang pengusaha keripik singkong menaikkan harga produknya dari Rp12.000 menjadi Rp15.000 per bungkus karena harga bahan baku naik. Penjualan bulanan turun dari 1.000 bungkus menjadi 850 bungkus. Meski demikian, pendapatan kotornya naik. Ia menyimpulkan bahwa pelanggannya tidak sensitif terhadap kenaikan harga. Namun, sebuah penelitian kecil menemukan bahwa sebagian pelanggan lama beralih ke merek lain yang lebih murah, sedangkan pelanggan baru datang karena kemasan yang lebih menarik.",
+  "question": "Hal yang tersirat dari teks adalah...",
+  "options": [
+   "Faktor selain harga, seperti kemasan, ikut memengaruhi pelanggan",
+   "Harga satu-satunya penentu penjualan",
+   "Merek lain pasti lebih berkualitas",
+   "Kemasan tidak berpengaruh",
+   "Pelanggan baru tidak peduli harga sama sekali"
+  ],
+  "answer": "A",
+  "explanation": "Pelanggan baru datang karena kemasan menarik, yang berarti kemasan memengaruhi keputusan beli.",
+  "tips": "Informasi tersirat = dapat disimpulkan dari petunjuk, bukan ditulis langsung.",
+  "time": 60
+ },
+ {
+  "id": 26,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Interpretasi tabel, grafik, dan teks",
+  "subtopic": "Persentase penurunan",
+  "difficulty": "easy",
+  "passage": "Seorang pengusaha keripik singkong menaikkan harga produknya dari Rp12.000 menjadi Rp15.000 per bungkus karena harga bahan baku naik. Penjualan bulanan turun dari 1.000 bungkus menjadi 850 bungkus. Meski demikian, pendapatan kotornya naik. Ia menyimpulkan bahwa pelanggannya tidak sensitif terhadap kenaikan harga. Namun, sebuah penelitian kecil menemukan bahwa sebagian pelanggan lama beralih ke merek lain yang lebih murah, sedangkan pelanggan baru datang karena kemasan yang lebih menarik.",
+  "question": "Penjualan bulanan keripik turun sebesar...",
+  "options": [
+   "10%",
+   "12%",
+   "15%",
+   "18%",
+   "20%"
+  ],
+  "answer": "C",
+  "explanation": "Penurunan 1.000 − 850 = 150 bungkus. 150 ÷ 1.000 = 15%.",
+  "tips": "Persentase turun = selisih ÷ nilai awal.",
+  "time": 45
+ },
+ {
+  "id": 27,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menentukan gagasan utama",
+  "subtopic": "Gagasan utama",
+  "difficulty": "easy",
+  "passage": "Para peneliti tidur menemukan bahwa jam biologis remaja bergeser sehingga mereka cenderung mengantuk lebih larut dan bangun lebih siang daripada anak-anak maupun orang dewasa. Karena itu, sekolah yang masuk pukul 06.30 membuat banyak remaja kurang tidur. Di beberapa kota, jam masuk sekolah digeser 60 menit lebih lambat. Hasilnya, kehadiran meningkat dan jumlah siswa yang mengantuk di kelas menurun. Namun, sebagian orang tua keberatan karena jam pulang sekolah menjadi lebih sore dan mengganggu kegiatan lain.",
+  "question": "Gagasan utama teks tersebut adalah...",
+  "options": [
+   "Jam masuk sekolah yang lebih lambat dapat membantu remaja, meski menimbulkan penyesuaian jadwal",
+   "Orang dewasa tidur lebih sedikit",
+   "Remaja malas bangun pagi",
+   "Semua sekolah harus masuk pukul 06.30",
+   "Kegiatan sore harus dihapus"
+  ],
+  "answer": "A",
+  "explanation": "Teks menjelaskan penyebab kurang tidur, solusi (jam masuk digeser), hasilnya, dan keberatan orang tua.",
+  "tips": "Rangkum permasalahan, solusi, dan kendala.",
+  "time": 60
+ },
+ {
+  "id": 28,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Memahami informasi tersirat",
+  "subtopic": "Informasi tersurat",
+  "difficulty": "easy",
+  "passage": "Para peneliti tidur menemukan bahwa jam biologis remaja bergeser sehingga mereka cenderung mengantuk lebih larut dan bangun lebih siang daripada anak-anak maupun orang dewasa. Karena itu, sekolah yang masuk pukul 06.30 membuat banyak remaja kurang tidur. Di beberapa kota, jam masuk sekolah digeser 60 menit lebih lambat. Hasilnya, kehadiran meningkat dan jumlah siswa yang mengantuk di kelas menurun. Namun, sebagian orang tua keberatan karena jam pulang sekolah menjadi lebih sore dan mengganggu kegiatan lain.",
+  "question": "Pernyataan yang sesuai dengan teks adalah...",
+  "options": [
+   "Remaja mengantuk lebih awal daripada anak-anak",
+   "Remaja cenderung mengantuk lebih larut daripada anak-anak dan orang dewasa",
+   "Jam masuk sekolah digeser 6 jam",
+   "Kehadiran siswa menurun setelah jam masuk digeser",
+   "Orang tua seluruhnya mendukung kebijakan"
+  ],
+  "answer": "B",
+  "explanation": "Teks menyebut jam biologis remaja bergeser sehingga mengantuk lebih larut.",
+  "tips": "Periksa arah perubahan (naik/turun) pada tiap opsi.",
+  "time": 45
+ },
+ {
+  "id": 29,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Mengevaluasi argumen",
+  "subtopic": "Melemahkan keberatan",
+  "difficulty": "medium",
+  "passage": "Para peneliti tidur menemukan bahwa jam biologis remaja bergeser sehingga mereka cenderung mengantuk lebih larut dan bangun lebih siang daripada anak-anak maupun orang dewasa. Karena itu, sekolah yang masuk pukul 06.30 membuat banyak remaja kurang tidur. Di beberapa kota, jam masuk sekolah digeser 60 menit lebih lambat. Hasilnya, kehadiran meningkat dan jumlah siswa yang mengantuk di kelas menurun. Namun, sebagian orang tua keberatan karena jam pulang sekolah menjadi lebih sore dan mengganggu kegiatan lain.",
+  "question": "Pernyataan yang paling melemahkan keberatan orang tua adalah...",
+  "options": [
+   "Banyak kegiatan sore dapat dijadwalkan ulang tanpa masalah berarti",
+   "Remaja butuh waktu tidur yang lebih banyak",
+   "Sekolah memiliki lapangan besar",
+   "Orang tua bekerja pada pagi hari",
+   "Siswa mengantuk di kelas"
+  ],
+  "answer": "A",
+  "explanation": "Keberatan orang tua bertumpu pada gangguan kegiatan sore. Bukti bahwa kegiatan dapat dijadwalkan ulang mengurangi bobotnya.",
+  "tips": "Pelemah harus menyasar alasan yang dipakai pihak yang dilemahkan.",
+  "time": 75
+ },
+ {
+  "id": 30,
+  "category": "Literasi Bahasa Indonesia",
+  "topic": "Menarik kesimpulan",
+  "subtopic": "Kesimpulan paling tepat",
+  "difficulty": "medium",
+  "passage": "Para peneliti tidur menemukan bahwa jam biologis remaja bergeser sehingga mereka cenderung mengantuk lebih larut dan bangun lebih siang daripada anak-anak maupun orang dewasa. Karena itu, sekolah yang masuk pukul 06.30 membuat banyak remaja kurang tidur. Di beberapa kota, jam masuk sekolah digeser 60 menit lebih lambat. Hasilnya, kehadiran meningkat dan jumlah siswa yang mengantuk di kelas menurun. Namun, sebagian orang tua keberatan karena jam pulang sekolah menjadi lebih sore dan mengganggu kegiatan lain.",
+  "question": "Simpulan yang paling tepat berdasarkan teks adalah...",
+  "options": [
+   "Semua sekolah harus mengubah jam masuk",
+   "Kebijakan itu gagal",
+   "Remaja tidak membutuhkan tidur",
+   "Penundaan jam masuk berpotensi meningkatkan kualitas tidur dan kehadiran, dengan konsekuensi penyesuaian jadwal",
+   "Orang tua yang berkeberatan salah"
+  ],
+  "answer": "D",
+  "explanation": "Hasil di beberapa kota positif, tetapi ada konsekuensi jadwal; simpulan harus seimbang dan tidak mutlak.",
+  "tips": "Hindari simpulan generalisasi (\"semua\") dan pilih yang mempertimbangkan dua sisi.",
+  "time": 75
+ }
+]

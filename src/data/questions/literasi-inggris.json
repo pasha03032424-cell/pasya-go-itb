@@ -1,0 +1,400 @@
+[
+ {
+  "id": 1,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Vocabulary",
+  "difficulty": "easy",
+  "question": "\"The report was concise, so everyone finished reading it quickly.\" The word \"concise\" means...",
+  "options": [
+   "Long",
+   "Brief and clear",
+   "Confusing",
+   "Boring",
+   "Late"
+  ],
+  "answer": "B",
+  "explanation": "Concise = brief but clear.",
+  "subtopic": "Vocabulary in context",
+  "tips": "Cari petunjuk di klausa sesudah \"so\" atau \"because\": hasilnya (read quickly) menjelaskan arti kata.",
+  "time": 45
+ },
+ {
+  "id": 2,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Inference",
+  "difficulty": "medium",
+  "question": "\"Maya packed an umbrella and a raincoat before leaving.\" What can be inferred?",
+  "options": [
+   "Maya hates rain",
+   "Maya is late",
+   "It is sunny",
+   "Maya is lost",
+   "Maya expects rain"
+  ],
+  "answer": "E",
+  "explanation": "Packing rain gear suggests she expects rain.",
+  "subtopic": "Inference",
+  "tips": "Inferensi = simpulan logis dari petunjuk; jangan memilih opsi yang butuh asumsi tambahan.",
+  "time": 60
+ },
+ {
+  "id": 3,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Main idea",
+  "subtopic": "Main idea of a passage",
+  "difficulty": "medium",
+  "passage": "Urban farming has expanded rapidly in many cities over the past decade. Rooftop gardens and vertical farms allow residents to grow vegetables close to where they live, reducing the distance food travels. Supporters argue that this lowers transport emissions and gives city dwellers fresher produce. Critics, however, point out that the high electricity cost of indoor lighting can cancel out these environmental gains. A recent study found that rooftop gardens using sunlight were far more energy-efficient than windowless vertical farms, though they produced smaller harvests.",
+  "question": "What is the main idea of the passage?",
+  "options": [
+   "Urban farming is cheaper than rural farming.",
+   "Urban farming has benefits, but its environmental value depends on how much energy it uses.",
+   "Rooftop gardens should replace all vertical farms.",
+   "Cities have too little space for farming.",
+   "Electricity is more expensive in cities than in villages."
+  ],
+  "answer": "B",
+  "explanation": "Teks menyebut manfaat (jarak pangan lebih pendek) dan kritik (listrik tinggi), lalu membandingkan dua jenis kebun berdasarkan efisiensi energi.",
+  "tips": "Main idea harus mencakup manfaat sekaligus batasannya, bukan satu detail.",
+  "time": 60
+ },
+ {
+  "id": 4,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Vocabulary in context",
+  "subtopic": "Phrasal verb in context",
+  "difficulty": "medium",
+  "passage": "Urban farming has expanded rapidly in many cities over the past decade. Rooftop gardens and vertical farms allow residents to grow vegetables close to where they live, reducing the distance food travels. Supporters argue that this lowers transport emissions and gives city dwellers fresher produce. Critics, however, point out that the high electricity cost of indoor lighting can cancel out these environmental gains. A recent study found that rooftop gardens using sunlight were far more energy-efficient than windowless vertical farms, though they produced smaller harvests.",
+  "question": "The phrase \"cancel out\" in the passage is closest in meaning to...",
+  "options": [
+   "delay",
+   "increase",
+   "discover",
+   "offset",
+   "measure"
+  ],
+  "answer": "D",
+  "explanation": "\"Cancel out\" berarti meniadakan/menyeimbangkan pengaruh lain (offset): biaya listrik dapat meniadakan keuntungan lingkungan.",
+  "tips": "Ganti frasa dengan tiap opsi dan uji kewajaran kalimat.",
+  "time": 45
+ },
+ {
+  "id": 5,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Detail",
+  "subtopic": "Stated detail",
+  "difficulty": "easy",
+  "passage": "Urban farming has expanded rapidly in many cities over the past decade. Rooftop gardens and vertical farms allow residents to grow vegetables close to where they live, reducing the distance food travels. Supporters argue that this lowers transport emissions and gives city dwellers fresher produce. Critics, however, point out that the high electricity cost of indoor lighting can cancel out these environmental gains. A recent study found that rooftop gardens using sunlight were far more energy-efficient than windowless vertical farms, though they produced smaller harvests.",
+  "question": "According to critics, what problem can indoor farming cause?",
+  "options": [
+   "Food travels a long distance.",
+   "Sunlight is too strong for vegetables.",
+   "The produce becomes less fresh.",
+   "The high electricity use for lighting can erase environmental benefits.",
+   "Harvests are too large to sell."
+  ],
+  "answer": "D",
+  "explanation": "Kritik disebutkan pada kalimat 4: biaya listrik pencahayaan dalam ruangan dapat meniadakan keuntungan lingkungan.",
+  "tips": "Cari kata kunci \"critics\" lalu baca kalimatnya.",
+  "time": 45
+ },
+ {
+  "id": 6,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Reference words",
+  "subtopic": "Pronoun reference",
+  "difficulty": "medium",
+  "passage": "Urban farming has expanded rapidly in many cities over the past decade. Rooftop gardens and vertical farms allow residents to grow vegetables close to where they live, reducing the distance food travels. Supporters argue that this lowers transport emissions and gives city dwellers fresher produce. Critics, however, point out that the high electricity cost of indoor lighting can cancel out these environmental gains. A recent study found that rooftop gardens using sunlight were far more energy-efficient than windowless vertical farms, though they produced smaller harvests.",
+  "question": "The word \"they\" in the last sentence refers to...",
+  "options": [
+   "rooftop gardens",
+   "vertical farms",
+   "critics",
+   "residents",
+   "city dwellers"
+  ],
+  "answer": "A",
+  "explanation": "Kalimat membandingkan rooftop gardens dengan vertical farms; \"they produced smaller harvests\" mengacu ke rooftop gardens (subjek utama kalimat).",
+  "tips": "Cari kata benda jamak terdekat yang menjadi subjek klausa sebelumnya.",
+  "time": 60
+ },
+ {
+  "id": 7,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Inference",
+  "subtopic": "Inference",
+  "difficulty": "hard",
+  "passage": "Urban farming has expanded rapidly in many cities over the past decade. Rooftop gardens and vertical farms allow residents to grow vegetables close to where they live, reducing the distance food travels. Supporters argue that this lowers transport emissions and gives city dwellers fresher produce. Critics, however, point out that the high electricity cost of indoor lighting can cancel out these environmental gains. A recent study found that rooftop gardens using sunlight were far more energy-efficient than windowless vertical farms, though they produced smaller harvests.",
+  "question": "Which statement can be inferred from the passage?",
+  "options": [
+   "Rooftop gardens are always better than vertical farms.",
+   "Urban farming is automatically good for the environment.",
+   "Higher energy efficiency can come with lower yields.",
+   "Vertical farms will disappear soon.",
+   "Residents dislike fresh produce."
+  ],
+  "answer": "C",
+  "explanation": "Rooftop gardens lebih hemat energi tetapi panen lebih kecil: efisiensi tinggi dapat disertai hasil lebih sedikit.",
+  "tips": "Inferensi harus didukung teks tanpa kata ekstrem seperti \"always\" atau \"automatically\".",
+  "time": 75
+ },
+ {
+  "id": 8,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Main idea",
+  "subtopic": "Main idea",
+  "difficulty": "easy",
+  "passage": "Many schools ban smartphones during class hours, yet some teachers have started inviting students to use them as learning tools. In one classroom, students record short science experiments and share the videos with classmates, which teacher Ms. Lestari says makes lessons \"stick.\" Still, she admits that managing the devices demands extra planning. \"A phone can open a library or a game with the same tap,\" she says. She therefore sets clear rules: phones stay face down until she gives a signal.",
+  "question": "What is the passage mainly about?",
+  "options": [
+   "Why all schools should ban phones",
+   "Why games are better than libraries",
+   "How to record science videos",
+   "The history of smartphones",
+   "A teacher who uses phones for learning while managing distractions with rules"
+  ],
+  "answer": "E",
+  "explanation": "Teks menceritakan guru yang memakai ponsel sebagai alat belajar dan mengatur distraksinya dengan aturan.",
+  "tips": "Rangkum: apa yang dilakukan, tantangannya, dan solusinya.",
+  "time": 60
+ },
+ {
+  "id": 9,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Vocabulary in context",
+  "subtopic": "Word in context",
+  "difficulty": "medium",
+  "passage": "Many schools ban smartphones during class hours, yet some teachers have started inviting students to use them as learning tools. In one classroom, students record short science experiments and share the videos with classmates, which teacher Ms. Lestari says makes lessons \"stick.\" Still, she admits that managing the devices demands extra planning. \"A phone can open a library or a game with the same tap,\" she says. She therefore sets clear rules: phones stay face down until she gives a signal.",
+  "question": "The word \"stick\" in the passage most likely means...",
+  "options": [
+   "be remembered well",
+   "attach with glue",
+   "become trapped",
+   "be punished",
+   "break easily"
+  ],
+  "answer": "A",
+  "explanation": "Pelajaran yang \"stick\" berarti melekat di ingatan siswa.",
+  "tips": "Gunakan konteks: apa efek merekam eksperimen bagi pelajaran?",
+  "time": 45
+ },
+ {
+  "id": 10,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Tone and attitude",
+  "subtopic": "Author attitude",
+  "difficulty": "medium",
+  "passage": "Many schools ban smartphones during class hours, yet some teachers have started inviting students to use them as learning tools. In one classroom, students record short science experiments and share the videos with classmates, which teacher Ms. Lestari says makes lessons \"stick.\" Still, she admits that managing the devices demands extra planning. \"A phone can open a library or a game with the same tap,\" she says. She therefore sets clear rules: phones stay face down until she gives a signal.",
+  "question": "The tone of the passage can best be described as...",
+  "options": [
+   "strongly critical",
+   "neutral and balanced",
+   "sarcastic",
+   "nostalgic",
+   "alarmed"
+  ],
+  "answer": "B",
+  "explanation": "Penulis menyajikan manfaat dan tantangan tanpa memihak berlebihan.",
+  "tips": "Tone netral: ada dua sisi dan tidak ada kata emosional berlebihan.",
+  "time": 45
+ },
+ {
+  "id": 11,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Inference",
+  "subtopic": "Inference from a quote",
+  "difficulty": "medium",
+  "passage": "Many schools ban smartphones during class hours, yet some teachers have started inviting students to use them as learning tools. In one classroom, students record short science experiments and share the videos with classmates, which teacher Ms. Lestari says makes lessons \"stick.\" Still, she admits that managing the devices demands extra planning. \"A phone can open a library or a game with the same tap,\" she says. She therefore sets clear rules: phones stay face down until she gives a signal.",
+  "question": "What does Ms. Lestari mean by \"A phone can open a library or a game with the same tap\"?",
+  "options": [
+   "A phone can be a useful tool or a distraction.",
+   "Phones are cheaper than books.",
+   "Libraries have closed.",
+   "Games are more educational.",
+   "Students should never touch phones."
+  ],
+  "answer": "A",
+  "explanation": "Satu ketukan yang sama bisa membuka sumber belajar atau permainan: ponsel bisa alat belajar sekaligus distraksi.",
+  "tips": "Kalimat kiasan: cari dua hal yang dikontraskan.",
+  "time": 60
+ },
+ {
+  "id": 12,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Text structure",
+  "subtopic": "Function of a sentence",
+  "difficulty": "medium",
+  "passage": "Many schools ban smartphones during class hours, yet some teachers have started inviting students to use them as learning tools. In one classroom, students record short science experiments and share the videos with classmates, which teacher Ms. Lestari says makes lessons \"stick.\" Still, she admits that managing the devices demands extra planning. \"A phone can open a library or a game with the same tap,\" she says. She therefore sets clear rules: phones stay face down until she gives a signal.",
+  "question": "Why does the writer include the last sentence?",
+  "options": [
+   "To end the story with a joke",
+   "To explain how phones work",
+   "To criticize students",
+   "To show how the teacher reduces the risk of distraction",
+   "To announce a school rule for the whole country"
+  ],
+  "answer": "D",
+  "explanation": "Aturan \"phones face down until signal\" adalah cara mengelola risiko distraksi yang disebut sebelumnya.",
+  "tips": "Tanya: kalimat ini menjawab masalah apa?",
+  "time": 45
+ },
+ {
+  "id": 13,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Author's purpose",
+  "subtopic": "Purpose",
+  "difficulty": "easy",
+  "passage": "The traditional batik of Java is made by drawing patterns with hot wax on cloth before the fabric is dyed. The wax resists the dye, so the covered areas keep their original color. Artisans may repeat this process several times to build up complex designs, which is why a single piece can take weeks to finish. In 2009, UNESCO recognized batik as part of humanity's intangible cultural heritage, a decision that helped raise global interest.",
+  "question": "The main purpose of the passage is to...",
+  "options": [
+   "explain how batik is made and why it is valued",
+   "persuade readers to buy batik",
+   "compare batik with other fabrics",
+   "criticize UNESCO",
+   "tell a personal story"
+  ],
+  "answer": "A",
+  "explanation": "Teks menjelaskan proses pembuatan batik dan pengakuan UNESCO yang membuatnya bernilai.",
+  "tips": "Tujuan penulis terlihat dari jenis isi: proses + fakta pengakuan = menjelaskan.",
+  "time": 45
+ },
+ {
+  "id": 14,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Detail",
+  "subtopic": "Cause and effect",
+  "difficulty": "easy",
+  "passage": "The traditional batik of Java is made by drawing patterns with hot wax on cloth before the fabric is dyed. The wax resists the dye, so the covered areas keep their original color. Artisans may repeat this process several times to build up complex designs, which is why a single piece can take weeks to finish. In 2009, UNESCO recognized batik as part of humanity's intangible cultural heritage, a decision that helped raise global interest.",
+  "question": "Why do the covered areas of the cloth keep their original color?",
+  "options": [
+   "Because the wax resists the dye",
+   "Because the cloth is washed first",
+   "Because artisans paint them white",
+   "Because UNESCO requires it",
+   "Because the dye is too weak"
+  ],
+  "answer": "A",
+  "explanation": "Kalimat kedua: wax resists the dye, sehingga bagian tertutup tetap berwarna asli.",
+  "tips": "Cari kata sebab (because/so) pada teks.",
+  "time": 45
+ },
+ {
+  "id": 15,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Vocabulary in context",
+  "subtopic": "Phrasal verb in context",
+  "difficulty": "medium",
+  "passage": "The traditional batik of Java is made by drawing patterns with hot wax on cloth before the fabric is dyed. The wax resists the dye, so the covered areas keep their original color. Artisans may repeat this process several times to build up complex designs, which is why a single piece can take weeks to finish. In 2009, UNESCO recognized batik as part of humanity's intangible cultural heritage, a decision that helped raise global interest.",
+  "question": "The phrase \"build up\" in the passage is closest in meaning to...",
+  "options": [
+   "destroy",
+   "gradually create",
+   "quickly sell",
+   "carefully hide",
+   "finally remove"
+  ],
+  "answer": "B",
+  "explanation": "Mengulang proses beberapa kali untuk \"membangun\" desain rumit sedikit demi sedikit.",
+  "tips": "Perhatikan kata \"repeat several times\" sebagai petunjuk.",
+  "time": 45
+ },
+ {
+  "id": 16,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Text structure",
+  "subtopic": "Organization",
+  "difficulty": "medium",
+  "passage": "The traditional batik of Java is made by drawing patterns with hot wax on cloth before the fabric is dyed. The wax resists the dye, so the covered areas keep their original color. Artisans may repeat this process several times to build up complex designs, which is why a single piece can take weeks to finish. In 2009, UNESCO recognized batik as part of humanity's intangible cultural heritage, a decision that helped raise global interest.",
+  "question": "How is the passage organized?",
+  "options": [
+   "A description of a process followed by a note on recognition",
+   "Problem then solution",
+   "A debate between two opinions",
+   "A list of unrelated facts",
+   "A timeline from 1900 to today"
+  ],
+  "answer": "A",
+  "explanation": "Dua kalimat pertama menjelaskan proses; kalimat terakhir menyebut pengakuan UNESCO tahun 2009.",
+  "tips": "Lihat peran tiap kalimat: proses → hasil → pengakuan.",
+  "time": 60
+ },
+ {
+  "id": 17,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Tenses",
+  "subtopic": "Simple past",
+  "difficulty": "easy",
+  "passage": "Last Saturday, my classmates and I (1) ____ to the science museum. The guide, together with two assistants, (2) ____ very helpful. We were impressed, (3) ____ the tickets were more expensive than we expected. By the time we left, we (4) ____ there for almost four hours.",
+  "question": "Choose the best word for blank (1).",
+  "options": [
+   "went",
+   "goes",
+   "go",
+   "have gone",
+   "are going"
+  ],
+  "answer": "A",
+  "explanation": "\"Last Saturday\" menandakan waktu lampau yang selesai, sehingga memakai simple past: went.",
+  "tips": "Penanda waktu lampau (last, yesterday, ago) → simple past.",
+  "time": 40
+ },
+ {
+  "id": 18,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Subject-verb agreement",
+  "subtopic": "Subject-verb agreement",
+  "difficulty": "medium",
+  "passage": "Last Saturday, my classmates and I (1) ____ to the science museum. The guide, together with two assistants, (2) ____ very helpful. We were impressed, (3) ____ the tickets were more expensive than we expected. By the time we left, we (4) ____ there for almost four hours.",
+  "question": "Choose the best word for blank (2).",
+  "options": [
+   "were",
+   "are",
+   "have been",
+   "be",
+   "was"
+  ],
+  "answer": "E",
+  "explanation": "Subjek utama \"The guide\" tunggal; \"together with two assistants\" tidak mengubahnya. Lampau → was.",
+  "tips": "Frasa \"together with / as well as\" tidak mengubah bentuk kata kerja.",
+  "time": 60
+ },
+ {
+  "id": 19,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Grammar",
+  "subtopic": "Connectors",
+  "difficulty": "medium",
+  "passage": "Last Saturday, my classmates and I (1) ____ to the science museum. The guide, together with two assistants, (2) ____ very helpful. We were impressed, (3) ____ the tickets were more expensive than we expected. By the time we left, we (4) ____ there for almost four hours.",
+  "question": "Choose the best word for blank (3).",
+  "options": [
+   "because",
+   "therefore",
+   "so",
+   "unless",
+   "although"
+  ],
+  "answer": "E",
+  "explanation": "Hubungan kontras: kagum, meskipun tiket lebih mahal. Maka \"although\".",
+  "tips": "Tentukan hubungan makna (sebab, kontras, akibat) sebelum memilih konjungsi.",
+  "time": 45
+ },
+ {
+  "id": 20,
+  "category": "Literasi Bahasa Inggris",
+  "topic": "Tenses",
+  "subtopic": "Past perfect continuous",
+  "difficulty": "hard",
+  "passage": "Last Saturday, my classmates and I (1) ____ to the science museum. The guide, together with two assistants, (2) ____ very helpful. We were impressed, (3) ____ the tickets were more expensive than we expected. By the time we left, we (4) ____ there for almost four hours.",
+  "question": "Choose the best word for blank (4).",
+  "options": [
+   "are",
+   "had been",
+   "have been",
+   "were being",
+   "will be"
+  ],
+  "answer": "B",
+  "explanation": "\"By the time we left\" (lampau) + aktivitas yang sudah berlangsung sebelumnya → past perfect: had been (there).",
+  "tips": "\"By the time + simple past\" biasanya diikuti past perfect.",
+  "time": 60
+ }
+]
